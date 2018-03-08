@@ -6,23 +6,31 @@ Baby
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향](http://ppss.kr/archives/48611)
 * [안드로메다 아이를 이해하는 방법](http://ppss.kr/archives/52539)
 * [엄마는 모르는 아이 감정의 비밀](http://media.daum.net/life/living/wedding/newsview?newsId=20150910103209610&RIGHT_LIFE=R12)
+* [아이가 울 땐 놔두세요, 자기 감정 배우는 중입니다](http://v.media.daum.net/v/20170525030323649?d=y)
 * [아이들과 수면의 상관관계에 대해 2015년 알게 된 것들](http://www.huffingtonpost.kr/2015/09/17/story_n_8150858.html)
 * [왕따는 무지한 부모 때문이다](http://bbs3.agora.media.daum.net/gaia/do/story/read?bbsId=S102&articleId=572219)
 * [자녀를 보호하려면? 카시트는 후향식으로](http://auto.daum.net/review/newsview.daum?newsid=MD20160414163426933)
 * **[“자주 욱하고 있다면 자존감 낮은 것”](http://www.hankookilbo.com/m/v/8ab2d8ce55d143c29340bb6a6b0fe5f0)**
+* [영재발굴단 이소은 이소연 아빠의 비밀](http://m.blog.naver.com/ivoryegg/220925977488)
+* [매일이 싸움터인 중학생들](http://www.koreatimes.com/article/20170605/1059904)
+* [오은영의 부모마음 아이마음](http://m.media.daum.net/m/media/series/54237)
+
+# 육아휴직
+* [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
 
 # Book
 * *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
 * [도서관으로 놀러 가요](http://media.daum.net/life/living/wedding/newsview?newsId=20150618091726117&RIGHT_LIFE=R4)
 * 차일드 애플
 * 읽고 풀고 그리고
+* [대화식 책읽기 워크샵 정리](https://medium.com/@strncpy/%EB%8C%80%ED%99%94%EC%8B%9D-%EC%B1%85%EC%9D%BD%EA%B8%B0-%EC%9B%8C%ED%81%AC%EC%83%B5-%EC%A0%95%EB%A6%AC-8b4fcf01a2c)
 
 # Education
-* **[[꿈꾸는 목요일] 유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
+* **[유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
 * [David Karp의 멋진 부모님](http://www.thestartupbible.com/2013/07/tumblr-david-karp-cool-parents.html)
 * [부모, 자율적 사고, 스타트업, 그리고 록키](http://www.thestartupbible.com/2015/12/korean-parents-are-part-of-the-problem-when-it-comes-to-free-thinking-and-startups.html)
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)
-* [\[웰니스 카운셀링\] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것]([웰니스 카운셀링] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것)
+* [웰니스 카운셀링 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것](http://www.davida.or.kr/board/bbs/board.php?bo_table=_community_02&wr_id=87&page=3)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (1)](http://newspeppermint.com/2015/05/05/mobility-2/)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (2)](http://newspeppermint.com/2015/05/05/mobility2/)
 * [가난한 아이들에게 유익한 환경은 부유한 아이들에게도 마찬가지로 유익합니다](http://newspeppermint.com/2015/05/13/poorkids_richkids/)
@@ -41,6 +49,9 @@ Baby
 * [나는 좋은 아버지인 줄 알았다](https://storyfunding.daum.net/project/4653/episodes)
 * [sas curriculum pathways](https://www.sascurriculumpathways.com/portal/)
 
+# Father
+* ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
+
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)
 * [면역력 UP, 겨울 보양 이유식](http://media.daum.net/life/food/photo/newsview?newsId=20141212130709229)
@@ -50,12 +61,12 @@ Baby
 * [한국 교육을 받은 사람들이 여행을 많이 가야하는 이유](http://ppss.kr/archives/57194)
 
 # Medication
-* [[맘스팁] 엄마들이 아이의 열 조절에 실패하는 흔한 원인](http://media.daum.net/life/living/wedding/newsview?newsId=20160113103602950)
-* [[카드뉴스] 열 나는 우리 아이, 응급실 가야할까?](http://media.daum.net/life/living/wedding/newsview?newsId=20160129164548437)
+* [엄마들이 아이의 열 조절에 실패하는 흔한 원인](http://media.daum.net/life/living/wedding/newsview?newsId=20160113103602950)
+* [열 나는 우리 아이, 응급실 가야할까?](http://media.daum.net/life/living/wedding/newsview?newsId=20160129164548437)
 
 # Play
 * [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
-* [[카드뉴스] 피곤할 때도 아이와 손쉽게 놀아주는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160120185927782)
+* [피곤할 때도 아이와 손쉽게 놀아주는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160120185927782)
 * [오늘 저녁 뭐하고 놀지](http://play.ibabynews.com/)
 * [아빠 놀이 학교 카페](http://cafe.naver.com/swdad)
 * [krazydad/mazes](http://krazydad.com/mazes/) 미로 pdf
@@ -63,6 +74,7 @@ Baby
 * [만원으로 아이를 '만족시키는' 24가지 놀이](http://www.insight.co.kr/article.php?ArtNo=33063)
 * [쓱쓱 칠하면 코끼리가 ‘둥실’…디즈니, 증강현실 기술 공개](http://www.bloter.net/archives/240225)
 * [색칠공부하면 입체 캐릭터가 움직인다?](http://techholic.co.kr/archives/41713)
+* [페이퍼 크래프트 download](http://cp.c-ij.com/en/categories/CAT-ST01-0071/top.html)
 
 # Product
 * Bike

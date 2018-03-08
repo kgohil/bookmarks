@@ -18,3 +18,10 @@ Psychology
 * [우리의 인지 편향 총정리](http://newspeppermint.com/2015/09/23/cognitive-bias/)
 * [인사이드 아웃 속 심리학](http://ppss.kr/archives/59482)
 * [넌 왜 자꾸 남 얘기를 해.. '낙인효과' 몰라?](http://media.daum.net/life/health/wellness/newsview?newsId=20151030100806490)
+* [겟젤스-잭슨 효과: 조직은 튀는 사람을 좋아하지 않는다](http://ksc12545.blog.me/220643712219)
+* [Why Very Smart People Are Happiest Alone](http://bigthink.com/robby-berman/study-study-finds-very-smart-people-are-happier-alone)
+* [난센스 - 제이미 홈스 불확실한 미래를 통제하는 법](https://brunch.co.kr/@younghakjang/18) 종결욕구
+* [8 Guaranteed Ways to Boost Your Confidence](https://www.linkedin.com/pulse/guaranteed-ways-boost-confidence-dr-travis-bradberry/)
+* [예전에 자살까지 거의 갔었던 경험...](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201712190012055258&select=&query=&user=&site=&reply=&source=&sig=h6jBHl21jh6RKfX@hcaXGg-gKmlq)
+* [노인들은 왜 옛날 이야기를 많이 하시나](http://v.media.daum.net/v/20171227101251087)
+* [어바웃 파이썬: PsychoPy](https://github.com/psygrammer/about_python_psychopy)

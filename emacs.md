@@ -19,3 +19,15 @@ Emacs
 * [Sweetgreen.el https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg Emacs companion to order salads without leaving your editor](https://github.com/CestDiego/sweetgreen.el)
 * [Configuring Emacs: A Yak Shaving Diary](https://zeekat.nl/articles/making-emacs-work-for-me.html)
 * [GNUEMACS_Manual 번역](http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual)
+* [org mode](https://www.facebook.com/notes/kyung-mo-kweon/org-mode/10159212021770632/)
+* [이맥스와 함께하는 개발환경](https://shiren.github.io/2017-11-13-%EC%9D%B4%EB%A7%A5%EC%8A%A4%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/)
+* [goodbye-picasa: picasaweb 이미지를 다운로드해서 교체](http://ohyecloudy.com/emacsian/2017/12/24/elisp-goodbye-picasa/)
+* [이맥스(emacs)와 자바스크립트 코드 정적 분석 도구 Tern](http://blog.nacyot.com/articles/2014-03-12-emacs-with-tern/)
+* [emacs.sexy 한국어 번역 및 OmegaT + Travis + Rake + Github Pages를 활용한 번역](http://blog.nacyot.com/articles/2014-03-17-sexy-emacs-kr/)
+
+# Library
+* Cask
+  * [이맥스(Emacs) 패키지 관리 도구 Cask 문서 번역](http://blog.nacyot.com/articles/2014-04-28-translate-emacs-cask-documenation/)
+  * [캐스크(Cask)로 이맥스(Emacs) 환경설정 관리하기(http://blog.nacyot.com/articles/2014-06-01-emacs-with-cask/)
+* [flycheck-popup-tip](https://github.com/flycheck/flycheck-popup-tip)
+* [Projectile - a project interaction library for Emacs](http://projectile.readthedocs.io/)

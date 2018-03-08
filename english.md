@@ -1,5 +1,9 @@
 English
 =======
+* [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
+* [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
+* [cnn.com/cnn10](https://edition.cnn.com/cnn10)
+* [dictionary.cambridge.org](https://dictionary.cambridge.org/)
 * [English 4 IT Talking Dictionary](http://www.english4it.com/dictionary)
 * [Flewent](http://groff.co/flewent/)
 * [gamelingu.com](http://gamelingu.com/)
@@ -9,7 +13,13 @@ English
 * [learn.livemocha.com](https://learn.livemocha.com)
 * [memrise](https://www.memrise.com/)
 * [mylanguageexchange.com](http://mylanguageexchange.com/)
+* youtube
+  * [라이브 아카데미](https://www.youtube.com/channel/UCGDA1e6qQSAH0R9hoip9VrA)
+  * [영어 알려주는 남자](https://www.youtube.com/channel/UCHpIHu4LzmNuD8bsE6mZLSA)
+  * [fromJUDYJY](https://www.youtube.com/channel/UCuvKCNThn2Ye5RWfJbSNHZA)
+  * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
 * [Your Weekly Address](https://www.whitehouse.gov/briefing-room/weekly-address)
+* [Words to Use Instead of VERY](http://www.fluentland.com/groups/learn-english/forum/topic/words-to-use-instead-of-very-3/)
 * email
   * [영어 이메일 완전정복: 참조(Cc)와 숨은 참조(Bcc)](http://slownews.kr/39419)
   * [영어 비즈니스 이메일 작성할 때 많이 하는 실수 10가지](http://ppss.kr/archives/56840)
@@ -27,9 +37,16 @@ English
 * [월요일 아침을 위한 영어](http://ppss.kr/archives/46674)
 * [우리가 토익 시험에서 배울 수 없는 실전 영어 표현 9선](http://ppss.kr/archives/50390)
 * [경제 분야에 많이 쓰는 영어 표현 13가지 정리](http://ppss.kr/archives/46685)
-* [[콩글리시 닥터] 길 가다가 본 영문 간판 2탄](http://www.huffingtonpost.kr/terence-kim/story_b_8144374.html)
+* [길 가다가 본 영문 간판 2탄](http://www.huffingtonpost.kr/terence-kim/story_b_8144374.html)
 * [연인, 부부 사이를 나타내는 영어 표현](http://ppss.kr/archives/58618)
 * [해외연수 없이 한국에서 영어 실력 높이기](http://ppss.kr/archives/58236)
 * [Prepositions Made Easy: In, On, and At (with Video!)](http://reallifeglobal.com/prepositions-made-easy-in-on-and-at)
 * [유튜브로 영어를 배우기 위한 9개의 대박 채널](http://www.fluentu.com/english/blog/ko/%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%A1%9C-%EC%98%81%EC%96%B4%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%B1%84%EB%84%90/)
-* [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기 [기초 편]](http://slownews.kr/58742)
+* [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기](http://slownews.kr/58742)
+* [Overcommit and under-deliver](http://blog.naver.com/mycool/220907086092) vs. under promises and over delivers
+* [SmartCat - Single-platform approach to translation automation](https://www.smartcat.ai/)
+* [알아두면 좋은 영어 비지니스 약어들](http://www.andrewahn.co/silicon-valley/useful-acronyms/)
+* [소심한 실리콘밸리의 한국인](http://www.andrewahn.co/silicon-valley/timid-koreans/)
+* [feature toggle 용어](http://knight76.tistory.com/entry/feature-toggle-%EC%9A%A9%EC%96%B4)
+* [두괄식 글쓰기: 영어 논문을 'Poor English'로 리젝 당하지 않는법](http://keunwoochoi.blogspot.com/2017/05/poor-english.html)
+* [Statement from John Farrell](https://gist.github.com/hyunjun/575011d69b02b8b248c73690aa5448df)

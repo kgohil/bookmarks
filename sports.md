@@ -1,11 +1,11 @@
 Sports
 ======
-* [http://www.theplayerstribune.com/](http://www.theplayerstribune.com/)
+* [theplayerstribune.com](http://www.theplayerstribune.com/)
 * [카누와 카약, 어떻게 다르고 어디서 탈 수 있을까?](http://www.huffingtonpost.kr/2015/05/08/story_n_7238964.html)
 * [The Science of NFL Football: Vectors](http://www.nsf.gov/news/special_reports/football/vectors.jsp)
 * [“도핑을 위한 변명: 도핑은 윤리적으로 비난 받을 문제가 아니다”](http://newspeppermint.com/2015/09/23/doping/)
 * [발표 1: 스포츠에 관한 인지과학적 이해 - 동물적 감각은 어디에서 오는가](https://www.youtube.com/watch?v=evyW_ugzD7A)
-* [[김인범의 Sports Paradox] 15화 - Sports, IoT와 BigData를 더하다](http://blog.skcc.com/m/2498)
+* [김인범의 Sports Paradox 15화 - Sports, IoT와 BigData를 더하다](http://blog.skcc.com/m/2498)
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)
@@ -14,10 +14,15 @@ Sports
 * [kbreport.com](http://www.kbreport.com/)
 * [mlbnation.co.kr](http://mlbnation.co.kr/)
 * [statiz](http://www.statiz.co.kr/)
+* [야구공작소](http://www.yagongso.com/)
+* [한국야구학회](https://koreabaseballstudies.wordpress.com/)
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
 * [kini's Sportugese - sabermetrics](http://kini.tistory.com/category/Sabermetrics)
   * [어떤 투수가 맞혀 잡는 투수일까?](http://kini.tistory.com/473) BIP, DER, K%+
   * [맞혀 잡는 투수에 대한 오해와 이해](http://kini.tistory.com/487)
+* [The control vs. command distinction](http://www.espn.com/mlb/insider/news/story?id=6455271)
+  * A pitcher with control can throw strikes
+  * Command more specifically describes a pitcher's ability to hit the catcher's target seemingly at will
 * [추신수는 다시 살아날 수 있을까](http://baseball-lab.com/2015/04/29/story_n_2665) fWAR, BB/SO, BABIP, Z-Contact%
 * [144G 시대, ‘촌놈 마라톤’은 이제 그만](http://baseball-lab.com/2015/04/29/story_n_2670) 3, 4월 승률과 정규 시즌 승률의 상관관계
 * Statcast
@@ -34,7 +39,7 @@ Sports
 * [스포츠 분석의 한계는 어디까지일까](http://techneedle.com/archives/20991)
 * [PLAYING THE RIGHT WAY?](http://www.foxsports.com/mlb/just-a-bit-outside/story/playing-baseball-right-way-depends-three-factors-when-who-where-061615) 진지하게 플레이한다는 건 나라마다 다른 문화에 따라 다르다
 * [Up Close on Baseball’s Borders](http://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html?WT.mc_id=2015-JULY-FB-WCA-UPSHOT_AUD_DEV-0701-0731&WT.mc_ev=click&ad-keywords=AUDDEVREMARK&abt=0002&abg=1)
-* [[톰 싱어] 피츠버그의 남다른 '케미'는 이렇게 완성됐다](http://sports.news.naver.com/sports/index.nhn?category=worldbaseball&ctg=news&mod=read&office_id=064&article_id=0000004579)
+* [톰 싱어 피츠버그의 남다른 '케미'는 이렇게 완성됐다](http://sports.news.naver.com/sports/index.nhn?category=worldbaseball&ctg=news&mod=read&office_id=064&article_id=0000004579)
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
 * [KBO 2010-2015 타구방향 mapping](http://baseball-in-play.com/239)
 * [The New Kid](http://www.theplayerstribune.com/matt-duffy-giants-the-new-kid/)
@@ -45,13 +50,15 @@ Sports
 * [김성근 스타일의 해부: 프런트와의 관계를 중심으로](http://slownews.kr/47337)
 * [김성근 열성팬: 우리들의 일그러진 팬심](http://slownews.kr/47562)
 * [회전수와 구위 얘기가 나와서 적어보는 투수의 요건](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2095337&cpage=&mbsW=&select=&opt=&keyword=)
-* [[KIA] 양현종 fip과 그밖에 스탯들](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2224095&cpage=&mbsW=&select=&opt=&keyword=)
+* [양현종 fip과 그밖에 스탯들](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2224095&cpage=&mbsW=&select=&opt=&keyword=)
 * [The art of letting go](http://www.espn.com/espn/feature/story/_/id/17668845/korean-bat-flip)
   * [빠던의 미학](http://pgr21.com/?b=1000&n=603)
 * [coachround.com/category/세이버-매트릭스](http://coachround.com/category/%EC%84%B8%EC%9D%B4%EB%B2%84-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4/)
 * [What are the secrets to Theo Epstein’s success?](http://www.bostonglobe.com/sports/redsox/2016/11/03/what-are-secrets-theo-epstein-success/zzwKa5GtkM7SACUChRaZPI/amp.html)
-* [[전수은의 포커스in] 컵스 프런트가 본 '엡스타인과 WS 우승'(1편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161110171058157)
-* [[전수은의 포커스in] "매든은 락밴드까지 불러 흥을 돋우는 감독"(2편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161111143751459)
+* [컵스 프런트가 본 '엡스타인과 WS 우승'(1편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161110171058157)
+* ["매든은 락밴드까지 불러 흥을 돋우는 감독"(2편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161111143751459)
+* [Too much practice kills talent | Choi Won Ho](https://youtu.be/S5R0UP_TDxU)
+* [AI predict best batters in baseball](http://m.digitaljournal.com/sports/ai-predict-best-batters-in-baseball/article/512596)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
@@ -63,6 +70,10 @@ Sports
 * [Sabermetrics: The Science of Baseball](http://www.cs.middlebury.edu/~ktenenbaum/saber_intro.html)
 * [Applied Statistics Master’s Degrees](http://www.mastersindatascience.org/specialties/applied-statistics/)
 * [투수의 제구력 - 컨트롤과 커맨드 또는 로케이션](http://baseball-in-play.com/52)
+* [Prospectus Feature Introducing Pitch Tunnels](http://www.baseballprospectus.com/article.php?articleid=31030)
+* [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
+* [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
+* [These days in baseball, every batter is trying to find an angle](https://www.washingtonpost.com/graphics/sports/mlb-launch-angles-story/)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)
@@ -72,7 +83,10 @@ Sports
 * [Phil Jackson Triangle Offencse](http://www.nytimes.com/2015/06/28/sports/basketball/phil-jackson-knicks-triangle-offense-nba.html)
 * [In Las Vegas, Korean Basketball League’s Draft Promises Money and Culture Shock](http://www.nytimes.com/2015/07/26/sports/basketball/in-las-vegas-korean-basketball-leagues-draft-promises-money-and-culture-shock.html?_r=0)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
-* [[현장에서] 농구있네 ⑥ 공을 만나러 가는 길](http://sports.news.naver.com/basketball/news/read.nhn?oid=430&aid=0000000479)
+* [농구있네 ⑥ 공을 만나러 가는 길](http://sports.news.naver.com/basketball/news/read.nhn?oid=430&aid=0000000479)
+* **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
+  * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
+* [한국인 최초 NBA 데이터분석가 김재엽 “지금은 레이커스와 연애 중”](http://m.sports.naver.com/basketball/news/read.nhn?oid=430&aid=0000000564)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
@@ -84,3 +98,4 @@ Sports
 * [그래프로 보는 메시의 위대함](http://ppss.kr/archives/48568)
 * [축구 뒤에 숨겨진 정치](http://ppss.kr/archives/55381)
 * [빌드업의 원리 (3) ](http://blog.naver.com/manutd92/220648589455)
+* [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)

@@ -23,3 +23,8 @@ Monad
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+* [Monad - FunFunFunction #21](https://www.youtube.com/watch?v=9QveBbn7t_c)
+* [모나드(monad)와 클로저(clojure)](http://seonho.kim/2017/09/16/monad-and-clojure/)
+* [The Curse of Understanding](https://lqez.github.io/blog/the-curse-of-understanding.html)
+* [모나드 합성의 대안](https://medium.com/@jooyunghan/%EB%AA%A8%EB%82%98%EB%93%9C-%ED%95%A9%EC%84%B1%EC%9D%98-%EB%8C%80%EC%95%88-158a0b8cdbf1)
+* [JavaScript 모나딕 파서](https://medium.com/@jooyunghan/javascript-%EB%AA%A8%EB%82%98%EB%94%95-%ED%8C%8C%EC%84%9C-c17fe5033f26)

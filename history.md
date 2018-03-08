@@ -2,6 +2,7 @@ History
 =======
 * [histography.io](http://histography.io/)
 * [geacron.com/home-en](http://geacron.com/home-en/)
+* [runningreality.org](http://www.runningreality.org/) Explore the history of human civilization from 3000BC to today
 * [영어의 변천사와 어원으로 살펴본 숫자들](http://ppss.kr/archives/36042)
 * [날아오는 화살을? 놀라운 활쏘기](http://techholic.co.kr/archives/28426)
 * [역사 속 가장 트렌디한 메이크업 변천사](http://www.huffingtonpost.kr/2015/04/12/----------_n_7051854.html)
@@ -54,7 +55,7 @@ History
 * [인류 최초의 이름은 뭐였을까?(영상)](http://www.huffingtonpost.kr/2015/08/25/story_n_8035204.html)
 * [True size of map](http://thetruesize.com/)
 * [History As Big Data: 500 Years Of Book Images And Mapping Millions Of Books](http://www.forbes.com/sites/gordonkelly/2015/09/19/apple-ios-9-secrets/)
-* [[Startups going global #1] 직지심체요절과 구텐베르크, 정화와 콜롬버스](http://www.venturesquare.net/601456)
+* [직지심체요절과 구텐베르크, 정화와 콜롬버스](http://www.venturesquare.net/601456)
 * [The World We Have Lost](http://www.historytoday.com/peter-frankopan/world-we-have-lost)
 * [The World’s Congested Human Migration Routes in 5 Maps](http://news.nationalgeographic.com/2015/09/150919-data-points-refugees-migrants-maps-human-migrations-syria-world/)
 * [당신이 몰랐던, 알아야 할 역사 속의 레즈비언 11명](http://www.huffingtonpost.kr/2015/10/19/story_n_8328732.html)
@@ -71,6 +72,7 @@ History
 * [나라가 망해가는 징조 10가지.jpg](http://m.cafe.daum.net/ssaumjil/LnOm/1644971?svc=cafeapp&sns=band)
 
 # 한국
+* [3.1 운동이 아시아에 미친 영향.JPG](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703010000250791)
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
 * [극우반공주의자 김구는 어떻게 진보의 아이콘이 될 수 있었나](http://m.ohmynews.com/NWS_Web/Mobile/ss_pg.aspx?CNTN_CD=A0002027939)
 * [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
@@ -81,6 +83,8 @@ History
 * [국사편찬위원회](http://www.history.go.kr)
 
 ## 현대
+* [2016헌나1 대통령(박근혜)탄핵](http://www.ccourt.go.kr/cckhome/kor/info/selectDiscussionVideoList.do)
+* [2016헌나1 대통령(박근혜)탄핵 선고 결정 전문 및 동영상](https://www.ccourt.go.kr/cckhome/kor/event/adjuList.do)
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
 * [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
@@ -106,7 +110,7 @@ History
   * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
   * ["美, 6·25서 세균전" 보고서 전문 공개됐다](http://www.huffingtonpost.kr/2015/06/09/story_n_7539890.html)
   * [목격자들 11회 예고 “골령골 이야기”](http://newstapa.org/26165)
-  * [[목격자들]골령(骨靈)골 이야기](http://newstapa.org/26246)
+  * [골령(骨靈)골 이야기](http://newstapa.org/26246)
   * [마오쩌둥은 한국전쟁 참전을 후회했다](http://www.huffingtonpost.kr/2015/06/23/story_n_7642814.html)
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
   * [북한이 세계 제일의 반미국가가 된 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8113966.html)
@@ -119,10 +123,11 @@ History
 * [오월, 그날의 기억](http://newstapa.org/25491)
 * [기자들은 더 이상 기사를 쓰지 않겠다고 했다](http://www.huffingtonpost.kr/2015/05/19/story_n_7310360.html)
 * [광주가 맞서 싸운 신군부 쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7303472.html)
-* [[기억하겠습니다 5.18 ②] 세상에서 가장 길었던 열흘](http://www.huffingtonpost.kr/2015/05/15/story_n_7289302.html)
-* [[기억하겠습니다 5.18 ③ ] 함께 부르는 '임을 위한 행진곡'](http://www.huffingtonpost.kr/2015/05/16/story_n_7295468.html)
-* [[기억하겠습니다 5.18 ④] 조국 교수 "5.18은 법률에 따른 민주화운동"](http://www.huffingtonpost.kr/2015/05/17/story_n_7300404.html)
-* [[기억하겠습니다 5.18 ⑤] 광주는 현재진행형이다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303624.html)
+* 기억하겠습니다 5.18
+  * [② 세상에서 가장 길었던 열흘](http://www.huffingtonpost.kr/2015/05/15/story_n_7289302.html)
+  * [③ 함께 부르는 '임을 위한 행진곡'](http://www.huffingtonpost.kr/2015/05/16/story_n_7295468.html)
+  * [④ 조국 교수 "5.18은 법률에 따른 민주화운동"](http://www.huffingtonpost.kr/2015/05/17/story_n_7300404.html)
+  * [⑤ 광주는 현재진행형이다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303624.html)
 * [유네스코가 말하는 '5·18의 진실'은 이렇다](http://www.huffingtonpost.kr/2015/05/15/story_n_7289760.html)
 * [5·18 민주화운동 제35주년 전야제 풍경 4가지: '임을 위한 행진곡'을 제창하다](http://www.huffingtonpost.kr/2015/05/17/story_n_7302254.html)
 * [아직도 국민 10명 중 1명은 5·18을 '폭력사태'로 알고 있다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299548.html)
@@ -130,10 +135,13 @@ History
 * [소년이 온다. 그날마다 온다](http://www.huffingtonpost.kr/yongjun-min/story_b_7311226.html)
 * [미 5·18 비밀문건 폭로자 "북한군 개입 내용은 없다"](http://www.huffingtonpost.kr/2015/05/21/story_n_7347010.html)
 * ['임을 위한 행진곡'을 국가로!](http://www.huffingtonpost.kr/hun-kang/story_b_7348866.html)
-* [[허핑턴포스트코리아 인터뷰] 5ㆍ18 비밀문건을 폭로한 미국 기자](http://www.huffingtonpost.kr/2015/06/17/story_n_7600574.html)
-* [[카드뉴스] 푸른 눈의 저널리스트가 고발한 한국사 55년](http://www.hani.co.kr/arti/society/society_general/720859.html)
-* [[카드뉴스] 도쿄행 1등석에 실려 보낸 광주의 진실](http://media.daum.net/society/others/newsview?newsid=20160209110644063)
+* [5ㆍ18 비밀문건을 폭로한 미국 기자](http://www.huffingtonpost.kr/2015/06/17/story_n_7600574.html)
+* [푸른 눈의 저널리스트가 고발한 한국사 55년](http://www.hani.co.kr/arti/society/society_general/720859.html)
+* [도쿄행 1등석에 실려 보낸 광주의 진실](http://media.daum.net/society/others/newsview?newsid=20160209110644063)
 * [timshorrock.com](http://timshorrock.com/)
+* [전두환 회고록, 욕하고 넘어갈 일 아니다](http://v.media.daum.net/v/20170403201103327?d=y)
+* **[뉴스포차 특집 - 5.18과 미국의 진실 (탐사기자 팀 셔록)](https://www.youtube.com/watch?v=LFbcaHsY1xw)**
+* [영화 “택시운전사”에 나오지 않은 네가지 이야기](http://channy.creation.net/blog/1159)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
@@ -161,12 +169,13 @@ History
 * [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
 * [영화 [암살]의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
-* [[해방 70년 특별기획] 친일과 망각 1부 ‘친일후손 1177′](http://newstapa.org/28140)
-* [[해방 70년 특별기획]친일과 망각 2부 ‘뿌리깊은 친일’](http://newstapa.org/28200)
-* [[해방 70년 특별기획]친일과 망각 3부 ‘부의 대물림’](http://newstapa.org/28246)
-* [[해방 70년 특별기획]친일과 망각 4부 ‘나는 고백한다’](http://newstapa.org/28262)
-* [[해방 70년 특별기획]친일과 망각 에필로그 ‘역사의 파수꾼은 살아 있다.’](http://newstapa.org/28614)
-* [[목격자들]해방70년 특별기획 ‘꽃바위 하나오카의 눈물’](http://newstapa.org/28275)
+* 친일과 망각
+  * [1부 ‘친일후손 1177′](http://newstapa.org/28140)
+  * [2부 ‘뿌리깊은 친일’](http://newstapa.org/28200)
+  * [3부 ‘부의 대물림’](http://newstapa.org/28246)
+  * [4부 ‘나는 고백한다’](http://newstapa.org/28262)
+  * [에필로그 ‘역사의 파수꾼은 살아 있다.’](http://newstapa.org/28614)
+* [해방70년 특별기획 ‘꽃바위 하나오카의 눈물’](http://newstapa.org/28275)
 * [일제, 그리고 독재와 맞선 마지막 선비, 심산 김창숙](http://ppss.kr/archives/46491)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
 * [백범의 한인애국단과 윤봉길의 훙커우 의거](http://ppss.kr/archives/54227)
@@ -175,7 +184,7 @@ History
 * [난징 시기 대한민국 임시정부와 약산 김원봉](http://ppss.kr/archives/54660)
 * [‘난징의 능욕’, 그들은 사람이 아니었다](http://ppss.kr/archives/55084)
 * [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
-* [[미니다큐]권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
+* [권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
 * [조선을 떠나며: 광복 이후 조선땅에 남은 일본인들의 삶 ①](http://ppss.kr/archives/54593)
 * [조선을 떠나며: 해방 이후 조선땅에 남은 일본인들의 삶 ②](http://ppss.kr/archives/55082)
 * [광복절에 해방 기념을 하지 말자고?](http://www.huffingtonpost.kr/gangsoo-jun/story_b_7991122.html)
@@ -186,14 +195,18 @@ History
 * [“조선사람은 닛본징이 되어야 한다”는 채만식의 친일행적](http://ppss.kr/archives/55126)
 * [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
 * [조선의 3대 천재 이광수, '밀정' 아내와 이혼한 이유](http://media.daum.net/culture/others/newsview?newsid=20160916160004834&RIGHT_REPLY=R4)
+* [보수층이 굴레를 벗으려는 시도!](http://ttimes.co.kr/view.html?no=2016081615057751505)
 
 ## 조선
-* [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
+* [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
 * [이순신 장군이 칼 대신 활을 든 이유](http://1boon.kakao.com/slownews/48854)
 * [임진왜란 직전에 선조가 '수군 해체'한 이유](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161007153104600&RIGHT_LIFE=R4)
+* [임진왜란 부른, 조선 은(銀)제련 신기술](http://v.media.daum.net/v/20161118101509804)
+* [임진왜란의 양국 전력에 대한 열 가지 진실](http://ppss.kr/archives/27531)
+* [왜적 추격하려는 조선군, 이를 방해하는 명군](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161227115304883)
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
 * [“한양의 길거리는 똥 천지였다.” (2)](http://ppss.kr/archives/52424)
@@ -208,10 +221,15 @@ History
 * [외규장각 의궤](http://uigwe.museum.go.kr/)
 * [농업만 중시하던 조선, 어떻게 망가졌나: 백수와 실업자들로 넘쳐났다](http://m.blog.naver.com/alsn76/40211201685)
 * [조선 사람의 세계여행](http://100.daum.net/book/504/toc)
+* [논란의 역사 - 쌍령 전투](https://brunch.co.kr/@robintoto/19)
+* [죽고 강간당한 50만은 어디에…‘남한산성’이 거세한 것들](http://www.hani.co.kr/arti/culture/culture_general/815150.html)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
-* [[한국사 Live] 왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
+* [왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
+
+## 고조선
+* [흑요석은 고조선 사람들의 '성공 조건'이었다](http://v.media.daum.net/v/20171022190905447)
 
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
@@ -226,6 +244,7 @@ History
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
   * [Africa Dwarfs China, Europe and the U.S.](http://www.scientificamerican.com/article/africa-dwarfs-china-europe-and-the-u-s/)
+  * [메르카토르 지도에서 피터스법 지도로 바꿔야](http://blog.naver.com/aghon/220963350483)
 * [birthisadream.org](http://www.birthisadream.org/)
 
 ## Ghana
@@ -284,7 +303,7 @@ History
 
 # Asia
 * [동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
-* [[전설]인류사 최고의 여왕 '공중정원'의 세미라미스](http://blog.naver.com/paust21/220819455307)
+* [인류사 최고의 여왕 '공중정원'의 세미라미스](http://blog.naver.com/paust21/220819455307)
 
 ## Afghanistan
 * [홀로그램으로 되살린 거대 불상](http://techholic.co.kr/archives/35411)
@@ -298,6 +317,7 @@ History
 * [어느 영웅의 불행한 말년과 죽음](http://www.huffingtonpost.kr/bawerk/story_b_8030858.html)
 * [박애주의자 묵자는 왜 독가스를 발명했을까](http://leekihwan.khan.kr/693)
 * [삼국지 실제 역사적 배경과 실제 지리](https://www.youtube.com/watch?v=Y5CyZJgiuVE)
+* [정사 삼국지방 파성넷](http://rexhistoria.net/)
 
 ## India
 * [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)
@@ -375,7 +395,7 @@ History
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 * [Tipu Sultan’s dream book](http://britishlibrary.typepad.co.uk/asian-and-african/2015/06/tipu-sultans-dream-book-io-islamic-3563.html)
-* [[IS 국가선포 1년] 현실이 되고있는 '이슬람 제국'](http://www.huffingtonpost.kr/2015/06/15/story_n_7582308.html)
+* [현실이 되고있는 '이슬람 제국'](http://www.huffingtonpost.kr/2015/06/15/story_n_7582308.html)
 * [한눈에 본 이슬람국가의 세력 확장](http://techholic.co.kr/archives/48279)
 * [철부지 버그달과 미국의 오판](http://ppss.kr/archives/24148)
 * [100년만의 부메랑? 중동 난민사태 잉태한 '사이크스-피코 협정'](http://www.huffingtonpost.kr/2015/09/07/story_n_8097136.html)
@@ -451,19 +471,20 @@ History
 * [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
 * [The Battle of Waterloo, as it happened on June 18, 1815](http://www.telegraph.co.uk/news/uknews/battle-of-waterloo/11676475/The-Battle-of-Waterloo-as-it-happened-on-June-18-1815.html)
 * [개선문 깎는 소년](http://ppss.kr/archives/46642)
+* [성 바르톨로메오 축일의 학살](http://v.media.daum.net/v/20170824074921428)
 
 ## Germany
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
-* [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
+* [독일리포트를 비판적으로 읽다](http://slownews.kr/39474)
 * [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
 * [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
-* [[미니다큐]전염병에 정치를 처방한 의학자](http://newstapa.org/25566)
+* [전염병에 정치를 처방한 의학자](http://newstapa.org/25566)
 * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
 * [슈뢰더의 교훈](http://www.huffingtonpost.kr/younghie-kim/story_b_7481290.html)
 * [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
 * [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
-* [[세상 읽기] 유럽의 독일화를 우려한다 / 김누리](http://media.daum.net/foreign/all/newsview?newsid=20150726211009726)
-* [[미니다큐]독일 통일의 설계사 ‘에곤 바르’가 남긴 조언](http://newstapa.org/28647)
+* [유럽의 독일화를 우려한다 / 김누리](http://media.daum.net/foreign/all/newsview?newsid=20150726211009726)
+* [독일 통일의 설계사 ‘에곤 바르’가 남긴 조언](http://newstapa.org/28647)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
@@ -487,7 +508,7 @@ History
 * [그리스가 복지 때문에 망했다? 대표적인 5가지 오해](http://www.huffingtonpost.kr/2015/06/30/story_n_7693912.html)
 * [3분 동영상 : 유로화는 어떻게 그리스 위기를 촉발시켰나](http://www.huffingtonpost.kr/2015/07/03/story_n_7719476.html)
 * [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
-* [[正말?] 그리스 빚더미가 복지탓?…세계의 언론을 보라](http://newstapa.org/27113)
+* [그리스 빚더미가 복지탓?…세계의 언론을 보라](http://newstapa.org/27113)
 * [그리스 재정 위기의 원인: 자본주의 기득권의 구조화](http://slownews.kr/43114)
 
 ## Italy
@@ -531,7 +552,7 @@ History
 * [Final Report - Independent Commission of Experts Swietzerland – Second World War
 Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/_synthese.htm)
   * [Bergier Report - what the Swiss were doing during WWII](http://www.glocals.com/forums/politics-and-current-affairs/Bergier-Report---what-the-Swiss-were-doing-during-WWII--124947.htm)
-  * [[세계사] 스위스, 역사 반성 교과서 채택 논란](http://eduict.org/_new3/?m=bbs&bid=social&uid=44148)
+  * [스위스, 역사 반성 교과서 채택 논란](http://eduict.org/_new3/?m=bbs&bid=social&uid=44148)
   * [스위스, 나치 기업.간부 재산도피처로 활용](http://cluster1.cafe.daum.net/_c21_/bbs_search_read?grpid=1Sj2&fldid=TSd&datanum=3124&openArticle=true&docid=1Sj2TSd312420011130203554)
   * [베르지 ＂스위스 2차대전중 집시 조직적 박해＂](http://news.donga.com/3/all/20001201/7615931/1)
   * ["스위스, 군수물자 수출 대부분 나치에 제공"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0000143841)
@@ -546,6 +567,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 # Rome
 * [Mary Beard: why ancient Rome matters to the modern world](http://www.theguardian.com/books/2015/oct/02/mary-beard-why-ancient-rome-matters)
 * [로마의 무덤, 파르티아 ①](http://ppss.kr/archives/33240)
+* [Ten Things You Did Not Know About The Roman Legions](http://historycollection.co/ten-things-not-know-roman-legions/)
 
 ## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)

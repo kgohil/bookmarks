@@ -26,11 +26,14 @@ Presentation
 * [슈퍼 스타트업…돈을 부른 초기 프레젠테이션](http://techholic.co.kr/archives/41033)
 * [에버노트, 습관 안으로 가져와야 성공한다](http://ppss.kr/archives/59152)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
+* [presentationmagazine.com](https://www.presentationmagazine.com/)
+* [2×2 매트릭스로 프로처럼 문서 작성하기: 개발마케팅연구소 김용빈 소장 인터뷰](http://1boon.daum.net/ppss/5907148f6a8e510001e299fc)
+* [Spring Camp 2017 연사 후기](http://blog.woniper.net/344)
 
 # Icons, Images
-* [http://thenounproject.com/](http://thenounproject.com/)
-* [http://wallpaperswide.com/](http://wallpaperswide.com/)
-* [https://color.adobe.com/ko/create/color-wheel/](https://color.adobe.com/ko/create/color-wheel/)
+* [thenounproject.com](http://thenounproject.com/) icons for everything
+* [wallpaperswide.com](http://wallpaperswide.com/)
+* [color.adobe.com/ko/create/color-wheel](https://color.adobe.com/ko/create/color-wheel/)
 
 # Infographics
 * [파워포인트로 인포그래픽 따라잡기](http://ppss.kr/archives/39000)
@@ -38,16 +41,19 @@ Presentation
 * [인포그래픽 제작을 위한 프로그램 소개](http://snsrp.com/18)
 
 # Programs
-* [[블로터10th] 미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)
+* [미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [bunkrapp](http://bunkrapp.com/)
+* **[GitPitch](https://gitpitch.com/)**
+  * [wiki](https://github.com/gitpitch/gitpitch/wiki)
 * [Gromit - Presenting Programs with Gromit](http://www.home.unix-ag.org/simon/gromit/)
 * [hacker-slides - github.com/jacksingleton/hacker-slides](https://github.com/jacksingleton/hacker-slides)
 * [KeyCastr - [무료] 키 입력 시각화 프로그램 'KeyCastr'... 나는 네가 어떤 키를 눌렀는지 알고 있다.](http://macnews.tistory.com/2552)
 * [Marp](https://yhatt.github.io/marp/) presentation by markdown
-  * [[무료] 프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
+  * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
 * [Mousepose](http://bedreams.tistory.com/46)
 * [prezi](https://prezi.com/)
 * [slides.com](http://slides.com/)
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
+* **[spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)**

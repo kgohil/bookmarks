@@ -20,10 +20,12 @@ Game
   * [처음 만드는 온라인 게임 05-01 : 클라이언트 개발](https://brunch.co.kr/@wedump/10)
   * [처음 만드는 온라인 게임 05-02 : 클라이언트 개발](https://brunch.co.kr/@wedump/11)
   * [처음 만드는 온라인 게임 05-03 : 클라이언트 개발](https://brunch.co.kr/@wedump/13)
-* [게임 창업하지마세요. (Episode.0 - 이 글은 어떤 글인가요?)_게임 창업 실패 이야기](http://blog.naver.com/pretym1/220710548022)
+* [게임 창업하지마세요. (Episode.0 - 이 글은 어떤 글인가요?) 게임 창업 실패 이야기](http://blog.naver.com/pretym1/220710548022)
 * [SHENZHEN I/O - BUILD CIRCUITS. WRITE CODE. RTFM](http://store.steampowered.com/app/504210/)
 * [TIS-100 is an open-ended programming game by Zachtronics - It’s the assembly language programming game you never asked for!](http://store.steampowered.com/app/370360/)
-* [초딩용 [게임서버 프로그래밍] 실시간 코딩방송에서 쓸 자작-소스코드 [강의계획서]](https://www.youtube.com/watch?v=Wel1MB9hm1A&feature=youtu.be)
+* [초딩용 게임서버 프로그래밍 실시간 코딩방송에서 쓸 자작-소스코드](https://www.youtube.com/watch?v=Wel1MB9hm1A&feature=youtu.be)
+* [Games you should try on GNU/Linux](https://www.unixmen.com/games-try-gnulinux/)
+* [데이터분석 기반 게임봇과 작업장 탐지 (NDC 2017)](https://www.slideshare.net/sakai76/ndc-2017-75638339)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
@@ -34,3 +36,5 @@ Game
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
+* Unreal
+  * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)

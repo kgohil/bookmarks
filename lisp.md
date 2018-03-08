@@ -84,6 +84,8 @@ Lisp
 * [어떤 프로그래밍 언어를 어떻게 공부해야 할까?](http://lisp.tistory.com/entry/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 * [LISP으로 함수형 프로그래밍 맛보기](https://opentutorials.org/module/2440)
 * [cs.gmu.edu/~sean/lisp/LispTutorial.html](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
+* [A SMALL LISP INTERPRETER](http://nisar.jagabar.free.fr/doc/lisp/pg/)
+* [catana - A series of AI experiments regarding categories and analogies](https://github.com/KedalionDaimon/catana)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
@@ -104,6 +106,7 @@ Lisp
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Tamei is a very simple project, it splits common lisp into 6 packages](https://github.com/cbaggers/tamei)
 * [Reader Macros in Common Lisp](https://gist.github.com/chaitanyagupta/9324402)
+* [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
@@ -160,8 +163,11 @@ Lisp
 * [Monadic Programming in Scheme](http://okmij.org/ftp/Scheme/monad-in-Scheme.html)
 * [A regular expression matcher in Scheme using derivatives](http://matt.might.net/articles/implementation-of-regular-expression-matching-in-scheme-with-derivatives/)
 * [SICP 시작](http://blog.naver.com/hancury/220500950273)
+* [Structure and Interpretation of Computer Programs Interactive Version](http://isicp.lisp.ai/index.html)
 * [execute scheme online](http://www.tutorialspoint.com/execute_scheme_online.php)
 * **[Practical Functional Programming](http://www.lambdanative.org/)**
+
+# [ulisp](http://www.ulisp.com/) lisp for Arduino
 
 # Web
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)

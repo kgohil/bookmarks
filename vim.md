@@ -8,6 +8,13 @@ Vim
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
   * .vimrc에 `set tags+=/path/to/tags`를 추가 or `:set tags+=path/to/tags`
+  * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
+  * [Python을 위한 ctags 세팅](https://rampart81.github.io/2017/python-ctags/)
+
+    ```
+    ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")
+    alias python_ctags="ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")"
+    ```
 * quickfix
   * [vim quickfix 기능 - 컴파일 에러 수정](http://sunyzero.tistory.com/223)
 * replace
@@ -19,11 +26,17 @@ Vim
     :argadd *.h
     :argdo %s/[ ]\+$//ge | update
     ```
+  * `ggVGu` change all the letters to lowercase [How to convert all text to lowercase in Vim](https://stackoverflow.com/questions/1102859/how-to-convert-all-text-to-lowercase-in-vim)
 * [sort](http://vim.wikia.com/wiki/Sort_lines)
-  * `:sort` / `:sort!`
+  * `:sort` / `:sort!` / `:%!sort -k2nr`
+  * [Sorting columns of text in Vim using sort](https://jordanelver.co.uk/blog/2014/03/12/sorting-columnds-of-text-in-vim-using-sort/)
 * splits
   * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
-* :vimgrep
+* vimdiff
+  * [vimdiff cheat sheet](https://gist.github.com/mattratleph/4026987)
+  * [Quick and Dirty : Vimdiff Tutorial](http://amjith.blogspot.com/2008/08/quick-and-dirty-vimdiff-tutorial.html)
+  * [EnhancedDiff plugin](https://github.com/chrisbra/vim-diff-enhanced)
+* vimgrep
   * `:vimgrep [string to find] [target file]`
     * e.g. `:vimgrep /<emphasis>vim<\/emphasis>/ *.xml`
   * [jump command](http://stackoverflow.com/questions/7880372/how-to-jump-between-patterns-when-using-vimgrep-quickfix-list)
@@ -32,6 +45,7 @@ Vim
     * `:cr`, `:cla` go to the beginning and end of the quickfix list
     * `:col`, `:cnew` iterate through historical quickfix lists
 * vimrc
+  * [vimrc.io](http://vimrc.io/)
   * [Vim 사용자 정의 파일 타입 꾸미기](http://www.popit.kr/adding-custom-file-type-in-vim/) for syntax highlight
   * [vimrc-vundle-script](https://github.com/uyu423/vimrc-vundle-script/blob/master/README.md) 여러 리눅스 환경에서의 vimrc, vim plugin 파일 동기화를 위한 저장소
 * [빔 편집기 한글화](http://vim-ko.github.io/)
@@ -42,10 +56,13 @@ Vim
 * [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
 * [VIM: 8 Takeaways From One Year Of Typing](http://sankho.github.io/web_log/2015/08/02/vim-8-takeaways-from-one-year-of-typing.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Vim)
-* [neovim](http://neovim.org/)
+* [neovim](http://neovim.io/)
+  * `~/.config/nvim/init.vim` [default location of configuration file](https://github.com/neovim/neovim/wiki/FAQ) just copy .vimrc as init.vim
   * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
   * [Oceanic Next theme for neovim](https://github.com/mhartington/oceanic-next)
   * [Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development! https://salt.bountysource.com/teams/neovim](https://github.com/neovim/neovim)
+  * [example of init.vim](https://gist.github.com/synasius/5cdc75c1c8171732c817)
+  * [A guide to neovim](http://nerditya.com/code/guide-to-neovim/)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * **[What are the most amazing things that can be done with Vim?](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)**
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
@@ -74,7 +91,7 @@ Vim
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 * [VIM adventures](http://vim-adventures.com/)
-* [[ToolCon2014] Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
+* [Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
 * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them) `:s/[\uFEFF]//g`
 * [How to remove this symbol “^@” with vim?](http://superuser.com/questions/75130/how-to-remove-this-symbol-with-vim) `%s/<CTRL-2>//g` `%s/<CTRL-SHIFT-2>//g` (on Mac)
 * **[vimgifs.com](http://vimgifs.com)**
@@ -87,15 +104,28 @@ Vim
 * [cheatsheets/vimscript.html](http://ricostacruz.com/cheatsheets/vimscript.html)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
+* [Vim with Windows | 한상곤 Sangkon Han | 2016.07](https://www.youtube.com/watch?v=pKrrw-mfzHg)
+* [vi를 진정으로 이해해라](https://blog.weirdx.io/post/39518)
+* [The Past and Future of Vim-go](https://speakerdeck.com/farslan/the-past-and-future-of-vim-go)
+* [Creating Your Lovely Color Scheme](https://speakerdeck.com/cocopon/creating-your-lovely-color-scheme)
+* [Vim, Me and Community](https://docs.google.com/presentation/d/14pViuMI_X_PiNwQD8nuGRG72GUqSeKDqoJqjAZWS39U/view#slide=id.p)
+* [Why I love Vim: It’s the lesser-known features that make it so amazing](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
+* [모든 앱에서 Vim을 사용하는 법 - QuickCursorKM과 vim-anywhere](https://nolboo.kim/blog/2018/02/17/vim-anywhere/)
 
 # Library
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
+* [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
+* [vimwiki - A Personal Wiki For Vim](https://github.com/vimwiki/vimwiki)
+  * [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/blog/2017/12/06/my-wiki/)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
+* [레거시 코드를 파괴하는 Vim 벽돌 깨기](http://woowabros.github.io/tools/2017/07/06/vim-game-code-break.html)
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
+* autosave
+  * [Vim에서 저장하는 방법 - 자동 저장](https://nolboo.kim/blog/2017/09/14/vim-write-autosave/)
 * [diminactive.vim This is a plugin for Vim to dim inactive windows](https://github.com/blueyed/vim-diminactive)
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
@@ -104,6 +134,7 @@ Vim
 * [vim-flake8](https://github.com/nvie/vim-flake8)
 * [vim-github-dashboard - 그래, 가끔 "Vim에서" GitHub을 보자!](http://tech.kakao.com/2016/03/03/vim-github-dashboard/)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
+  * [Go Development with Vim-go](https://www.youtube.com/watch?v=7BqJ8dzygtU)
 * [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [vim-plug - Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [vim-python-mode](https://github.com/klen/python-mode)

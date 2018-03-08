@@ -4,8 +4,8 @@ People
 * [대한민국 '피규어 대통령' 조웅](http://www.huffingtonpost.kr/kyoonho-park/story_b_7083416.html)
 * [목격자들 4회 <건달할배 채현국> 예고](http://newstapa.org/24981)
   * [목격자들 4회 <건달 할배, 채현국>](http://newstapa.org/25018)
-  * [[목격자들]추석 특집 1부, 건달할배 채현국을 만나다](http://newstapa.org/29097)
-  * [[목격자들]추석 특집 2부, 건달할배 채현국을 만나다 – 마약같은 ‘돈벌이’에서 ‘헬조선’까지](http://newstapa.org/29160)
+  * [추석 특집 1부, 건달할배 채현국을 만나다](http://newstapa.org/29097)
+  * [추석 특집 2부, 건달할배 채현국을 만나다 – 마약같은 ‘돈벌이’에서 ‘헬조선’까지](http://newstapa.org/29160)
 * [노블레스 오블리주의 화신, 유일한](http://ppss.kr/archives/37751)
 * [청년은 ‘당신의 평등’이 아니라 생존을 원한다](http://slownews.kr/40764) 장하성
 * [Florence Nightingale: Saving lives with statistics](http://www.bbc.co.uk/timelines/z92hsbk?intc_type=promo&intc_location=news&intc_campaign=florence&intc_linkname=iwonder_factual_guide)
@@ -22,8 +22,10 @@ People
   * [레스터 사본에 숨져진 레오나르도 다빈치의 천재성(사진)](http://www.huffingtonpost.kr/2015/07/01/story_n_7702778.html)
 * Obama
   * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
-  * [President Obama Delivers Eulogy at Charleston Shooting Funeral of Clementa Pinckney [FULL SPEECH]](https://www.youtube.com/watch?v=RK7tYOVd0Hs)
+  * [President Obama Delivers Eulogy at Charleston Shooting Funeral of Clementa Pinckney](https://www.youtube.com/watch?v=RK7tYOVd0Hs)
   * [Remarks by the President in Eulogy for the Honorable Reverend Clementa Pinckney](https://www.whitehouse.gov/the-press-office/2015/06/26/remarks-president-eulogy-honorable-reverend-clementa-pinckney)
   * ['어메이징 그레이스', 오바마 집권 2기 최고의 순간에 숨겨진 뒷이야기(동영상)](http://www.huffingtonpost.kr/2015/07/08/story_n_7749822.html)
+* Salvador Allende
+  * [What a wonderful world - 살바도르 아옌데](http://blog.naver.com/choiys1989/60069082080)
 * Seymour Aubrey Papert
   * [생각을 생각하는 법을 생각하게 한 거인](http://www.hankookilbo.com/v/f81d49a25f2545589e80d7a960d22378)

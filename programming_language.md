@@ -40,14 +40,19 @@ Programming Language
 * [“유명 상표를 넘어서” 새롭게 떠오르는 10가지 프로그래밍 언어](http://www.itworld.co.kr/print/87151)
 * [4190.310 Programming Languages - 이광근](http://ropas.snu.ac.kr/~kwang/4190.310/mooc/)
 * [The Languages And Frameworks You Should Learn In 2016](http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/)
-  * [[번역] 당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)
+  * [당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)
 * [www.hub4tech.com/programming](http://www.hub4tech.com/programming)
 * [syntaxdb.com](https://syntaxdb.com/)
+* [DuoCoder](http://jasonpark.me/DuoCoder/public/)
+* [자바랑 자바스크립트랑 싸우면 누가 이길까? 정적 타입 언어와 동적 타입 언어의 생산성에 관하여](https://taegon.kim/archives/6753)
+* [If-statements design: guard clauses may be all you need](https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a)
+* [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
 * [Domain-Specific Language Engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8432&rep=rep1&type=pdf)
 * [DSL Development Environment](https://www.jetbrains.com/mps/)
+* [The little engine that could: Linchpin DSL for Pinterest ranking](https://medium.com/@Pinterest_Engineering/the-little-engine-that-could-linchpin-dsl-for-pinterest-ranking-17699add8e56)
 
 # Languages
 * [Programming languages](https://github.com/showcases/programming-languages)
@@ -76,7 +81,10 @@ Programming Language
   * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
   * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
-  * [[번역] x64 어셈블리 소개](http://thar.tistory.com/1)
+  * [x64 어셈블리 소개](http://thar.tistory.com/1)
+  * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
+* Basic
+  * [GWBASIC 레거시 이야기](http://thdev.net/744)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -94,6 +102,8 @@ Programming Language
 * [D](http://ddili.org/ders/d.en/)
   * [D 프로그래밍 언어](https://wikidocs.net/book/457)
 * [Dash, a simple programming language written in C](http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c)
+* Delphi
+  * [Delphi P2P Socket Library](http://ryulib.tistory.com/457)
 * [DRAKON is an algorithmic visual programming language developed within the Buran space project](https://en.wikipedia.org/wiki/DRAKON)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
@@ -107,10 +117,23 @@ Programming Language
   * [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
   * [Walkthrough: Introducing Elm to a JS Web App](http://noredinktech.tumblr.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
   * [elm-architecture-tutorial - How to create modular Elm code that scales nicely with your app](https://github.com/evancz/elm-architecture-tutorial)
-  * [[HQ] 케빈 TV S02E09 - DB관리툴 / Elm (1회), FP for Frontend (2016-10-16)](https://www.youtube.com/watch?v=PpzQ5cY1gag)
-  * [케빈 TV S02E10 - Youtube / 방송 / Elm (2회) (2016-10-23)](https://www.youtube.com/watch?v=UDw4P7zWOYI)
-  * [[Live] 케빈 TV S02E11 - 구인 / 구직 / 연애 꿀팁 / Elm (3회) (2016-10-30)](https://www.youtube.com/watch?v=LwhTKogcdis)
-  * [[Live] 케빈 TV S02E12 - 시청자와 수다 / Elm (4회) (2016-11-06)](https://www.youtube.com/watch?v=NRAwzek7mJI)
+  * 케빈 TV
+    * [S02E09 - DB관리툴 / Elm (1회), FP for Frontend (2016-10-16)](https://www.youtube.com/watch?v=PpzQ5cY1gag)
+    * [S02E10 - Youtube / 방송 / Elm (2회) (2016-10-23)](https://www.youtube.com/watch?v=UDw4P7zWOYI)
+    * [S02E11 - 구인 / 구직 / 연애 꿀팁 / Elm (3회) (2016-10-30)](https://www.youtube.com/watch?v=LwhTKogcdis)
+    * [S02E12 - 시청자와 수다 / Elm (4회) (2016-11-06)](https://www.youtube.com/watch?v=NRAwzek7mJI)
+    * [S02E13 - 호주 생활, 취업 / Scala소식 / Elm (5회) (2016-11-13)](https://www.youtube.com/watch?v=osQ2BSpd_P0&feature=em-lss)
+    * [S02E14 - Elm 6회 웹소켓과 시간여행 디버깅 (2016-11-20) 2부](https://www.youtube.com/watch?v=7BkzIMhbs9s)
+    * [S02E15 - 나프컨 2016 후기 / Elm 7회 Types (2016-12-11)](https://www.youtube.com/watch?v=P4C3fqNLrXo)
+    * [S02E16 - 한국 방문 후기 (1) / Elm 8회 Type Aliases / Union Types (2016-12-18)](https://www.youtube.com/watch?v=j--s3bCXZf8)
+    * [Elm 9회 - Linked List and Generics (2016-12-25)](https://www.youtube.com/watch?v=Xzih_Zeb2MM)
+    * [Elm 10회 - Error Handling - Maybe (2017-01-01)](https://www.youtube.com/watch?v=uyPKmqbT62o)
+    * [GitHub 사용 보고서 / JS / Elm 11회 - Error Handling - Result (2017-01-07)](https://www.youtube.com/watch?v=0jq-awEpVV4)
+    * [언어별 많이 사용된 단어 보기 / Elm 12회 JSON (2017-01-21)](https://www.youtube.com/watch?v=9VsFT4LIn98)
+    * [Elm 13회 JavaScript Interop / 해외 취업 관련 꿀팁 (2017-01-28)](https://www.youtube.com/watch?v=CkVKmkwmLf4)
+  * [Aaron VonderHaar - elm the best of functional programming in your browser](https://www.youtube.com/user/gruen0/videos)
+  * [엘름 함수 연산자(|>, <|, >>, <<)에 대한 간단한 설명](https://harfangk.github.io/2018/01/28/elm-function-operators-ko.html)
+  * [Elm changed my mind about unpopular languages](https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
@@ -133,8 +156,10 @@ Programming Language
 * [Hy](https://github.com/hylang/hy)
   * [Welcome to Hy’s documentation!](http://docs.hylang.org/)
   * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)
+  * [Complex slicing in numpy](https://groups.google.com/forum/m/#!topic/hylang-discuss/gDWb_sSD1CQ)
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
+  * [Type-Driven Development with Idris 리뷰](https://harfangk.github.io/2017/10/24/tdd-with-idris-review-ko.html)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
@@ -162,6 +187,11 @@ Programming Language
   * [Using Lua and C++ in practice. Part 1. Intro to ECS and basic principles](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
   * [Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler](http://ravilang.github.io/)
   * [Closures in Lua](http://www.cs.tufts.edu/~nr/cs257/archive/roberto-ierusalimschy/closures-draft.pdf)
+  * [Corona Live Builds](https://www.youtube.com/watch?v=peyo_97BOmI)
+  * [새로운 코로나[Corona] 둘러보기](https://blog.wonhada.com/?p=3246)
+  * [단숨에 루아(LUA) 스크립트 배우기](https://blog.wonhada.com/?p=331)
+  * [카일루아, 하나: 태동](http://j.mearie.org/post/160156279158/kailua-part-1)
+  * [카일루아, 둘: 파서 (1)](http://j.mearie.org/post/160266597373/kailua-part-2)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * mathematica
@@ -171,6 +201,10 @@ Programming Language
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
   * [Chebfun—numerical computing with functions](http://www.chebfun.org/)
   * [3 open source alternatives to MATLAB](https://opensource.com/education/16/6/open-source-alternatives-matlab)
+  * [Track Driving Simulator in MATLAB](https://github.com/sjchoi86/TrackDrive)
+  * [Deep Learning in 11 Lines of MATLAB Code](https://kr.mathworks.com/videos/deep-learning-in-11-lines-of-matlab-code-1481229977318.html?s_eid=PSM_da)
+  * [Simple Handshaking between Matlab and TensorFlow](http://enginius.tistory.com/667)
+  * [MATLAB Tutorials for beginners Module-1 | Python](https://www.youtube.com/watch?v=-Fcbmp2L4Yc)
 * [MCG: Visual Functional Programming](http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming)
 * [MelodyScript is a melody-oriented DSL for describing melodies, which can be optionally annotated with chords](https://github.com/pdorrell/melody_scripter)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
@@ -261,3 +295,17 @@ Programming Language
   * 실제 런타임에서 돌려 봐야 Correctness를 확인 가능
   * 각각 장단점이 있지만, Haskell과 같은 정적 Type 체킹 시스템보다는 clojure.spec과 같은 동적 (Type and Value) 체킹 시스템이 더 실용적일 수 있다는 주장
 * [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
+* [The broken promise of static typing](https://dev.to/danlebrero/the-broken-promise-of-static-typing)
+  * 버그가 적은 프로그래밍은, 그 언어의 정적 타입 체킹 유무에 따르는 것이 아니라, 프로그래밍의 복잡도를 얼마나 낮춰줄 수 있는 언어인가에 달려 있다는 주장
+  * 정적 타입 체킹 기능이 중요하지 않다는 이야기가 아니라, 실제에 비해 그 효용이 지나치게 과대평가되어 있다는 의미
+  * 단순한 언어들의 공통점
+    * No manual memory management
+    * No mutex-based concurrency
+    * No classes
+    * No inheritance
+    * No complex type system
+    * No multiparadigm
+    * Not a lot of syntax
+    * Not academic
+* [정적타입vs동적타입?? 단순한 언어가 최고!!](http://hamait.tistory.com/845)
+* [Safer Smart Contracts Through Type-Driven Development - 감상문](https://harfangk.github.io/2018/02/18/thoughts-on-safer-smart-contracts-through-tdd-ko.html)

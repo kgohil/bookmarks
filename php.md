@@ -1,5 +1,6 @@
 PHP
 ===
+* [php.net](http://php.net/)
 * [이제와서 PHP로 개발해야 하는 이유](https://www.tokyobranch.net/archives/6693)
 * [이제와서 PHP로 개발해야하는 이유 PART 2](https://www.tokyobranch.net/archives/7066)
 * [떠나세요, PHP 개발자여. 아니면 잘하든가!](http://blog.weirdx.io/post/24175)
@@ -10,3 +11,30 @@ PHP
 * [3v4l.org - an online shell that allows you to run your code on my server](https://3v4l.org/)
 * [2016 py con2016_lightingtalk_php to python](http://www.slideshare.net/JiHoLee4/2016-py-con2016lightingtalkphp-to-python)
 * [레거시 PHP에서 모던 PHP로 – 뷰 분리하기](http://www.haruair.com/blog/3748)
+* [주소를 위도 / 경도 값으로 변환하기 (google API geocoding)](http://qnfmfmd.tistory.com/50)
+* [www.modernpug.org](http://www.modernpug.org/)
+* [opentutorials.org PHP](https://opentutorials.org/module/6)
+* [PHP에서 symlink()를 이용해 lock 구현하기](https://blog.asamaru.net/2017/04/02/php-lock-file-using-symlink/)
+* [PhpStorm에서 부분적으로 코드 포멧팅(code formatting) disable 하기](https://blog.asamaru.net/2017/04/01/phpstorm-disable-code-formatting-for-part-of-code/)
+* [PHP 에서 한글 파일명 사용시 pathinfo(), basename() 결과가 맞지 않는 문제 해결](https://blog.asamaru.net/2017/04/25/make-php-pathinfo-return-the-correct-filename-if-the-filename-is-utf-8/)
+* [제네릭 없는 PHP 인터페이스](http://www.haruair.com/blog/3909)
+* [구글 API를 통해서 배우는 인증 (oauth 2.0)](https://opentutorials.org/course/2473/16571)
+* [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
+* [PHP Test Driven Development Part 1: Introduction](https://hackernoon.com/php-test-driven-development-part-1-introduction-5483362d79b5)
+* [php + 기본 마크업을 이용한 사이트 구조개선](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&current_gnb=gnb01&bbs=web&num=175&page=1&type=4&all=true)
+* [mysql + php로 만드는 오늘하루 방문자, 총 방문자수 집계(새로고침시 카운터 안되는)](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&bbs=web&current_gnb=gnb01&news_type&type&num=62&page=1)
+* [ReactPHP의 Process로 pipe 사용하기](http://www.haruair.com/blog/4146)
+* [PHP에서 커링 currying 함수 작성하기](http://www.haruair.com/blog/4149)
+
+# Library
+* composer
+  * [레거시 php 프로젝트를 composer 패키지로 바꾸기](http://www.haruair.com/blog/3968)
+* [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)
+* Laravel
+  * [How to Build a Blog with Laravel - Part 1 (Exploring File Structure)](https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
+  * [Laravel 5 Vue Js Tutorial : Install Vue Js & Getting start in laravel 5](https://www.youtube.com/watch?v=wQ7YN2CuoOk)
+  * [Laravel in Docker](https://hackernoon.com/laravel-in-docker-ceed4465352)
+  * [Laravel 06.Request LifeCyle](https://www.slideshare.net/hojinlee18/laravel-06request-lifecyle)
+  * [Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App](https://medium.com/js-dojo/advanced-server-side-rendering-with-laravel-vue-multi-page-app-486b706e654)
+* phan
+  * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)

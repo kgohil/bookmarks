@@ -42,15 +42,40 @@ Data Visualization
 * [Fundamentals of data analysis and visualization](http://geocenter.github.io/StataTraining/)
 * t-SNE scatter plot; 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
   * [Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
+  * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
+  * [T-SNE IN R/PYTHON](http://lumiamitie.github.io/r/python/tsne-for-r-py/)
+  * [t-SNE를 이용한 차원 감소](http://bcho.tistory.com/1210)
+* [CONVEX HULL을 이용한 CLUSTERING 결과물 시각화](http://lumiamitie.github.io/r/python/chull-for-r-py/)
 * [서울에서 월세 싼 동네, 어디일까](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002226293)
 * [데이터 시각화로 본 글로벌 생태발자국](http://techholic.co.kr/archives/58848)
 * [빅데이터 시대, BI Solution (Spotfire) 활용법](http://www.popit.kr/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EB%8C%80-bi-solution-spotfire-%ED%99%9C%EC%9A%A9%EB%B2%95/)
-* [[데이터 분석] 링크가 없는데 클릭하는 사람들](https://brunch.co.kr/@userhabit/15)
+* [링크가 없는데 클릭하는 사람들](https://brunch.co.kr/@userhabit/15)
+* [색이 날개다](http://www.bloter.net/archives/267909)
+* [A heat map of Divvy bike riders in Chicago](http://blog.revolutionanalytics.com/2016/11/divvy-chicago.html)
+  * [Heatmaps with Divvy Data](http://www.austinwehrwein.com/data-visualization/heatmaps-with-divvy-data/)
+* [미디엄 데이터 시각화 도구, 오픈소스로 공개](http://www.bloter.net/archives/213850)
+* [인구이동, 어디서 오고 어디로 가는가](http://1boon.daum.net/slownews/62429)
+* [Data science with R - 2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization)
+* [서울 1인가구 분포 : 각자 다른 사정의 사람들](http://www.vw-lab.com/38)
+* [도시 데이터 시각화: 모으고 보여주는 만큼 알게 될 거야](https://medium.com/@wonyoungso/%EB%8F%84%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%AA%A8%EC%9C%BC%EA%B3%A0-%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94-%EB%A7%8C%ED%81%BC-%EC%95%8C%EA%B2%8C-%EB%90%A0-%EA%B1%B0%EC%95%BC-679347502269)
+* [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
+* 아빠가 들려주는 데이터시각화
+  * [Butterfly (tornado) plt with 엑셀](http://blog.naver.com/kjhnav/221066222523)
+* [도시 데이터 시각화: 모으고 보여주는 만큼 알게 될 거야](https://medium.com/@wonyoungso/%EB%8F%84%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%AA%A8%EC%9C%BC%EA%B3%A0-%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94-%EB%A7%8C%ED%81%BC-%EC%95%8C%EA%B2%8C-%EB%90%A0-%EA%B1%B0%EC%95%BC-679347502269)
+* [For Large Scale Image Classification and Object Detection: AutoML](https://www.techleer.com/articles/408-for-large-scale-image-classification-and-object-detection-automl/)
+* [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
+* [Data Visualization Hackathon Style](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
+
+# Facebook
+* [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
   * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)
-* [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
+* Datalab
+  * [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
+  * [Google Cloud에서 Datalab 사용하기 #1](https://jungwoon.github.io/google%20cloud/2017/10/27/Google-Datalab_1/)
+* [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
   
 # Graph
 * [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)
@@ -60,12 +85,14 @@ Data Visualization
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+* [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
-* [Vega is a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
+* [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
+* [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
 * [WebPlotDigitiger - HTML5 based online tool to extract numerical data from plot images. http://arohatgi.info/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
 # Python
@@ -73,4 +100,10 @@ Data Visualization
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
+* [datashader](http://datashader.readthedocs.io/)
+  * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
+* [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+* [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
+* **[python-graph-gallery.com](https://python-graph-gallery.com/)**
+* [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)

@@ -1,6 +1,7 @@
 Artificial Intelligence
 =======================
-* [http://hub-ai.com/](http://hub-ai.com/)
+* [hub-ai.com](http://hub-ai.com/)
+* [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
 * [github.com/kjw0612](https://github.com/kjw0612/)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
 * [Programming Collective Intelligence](http://whydsp.org/263)
@@ -21,6 +22,7 @@ Artificial Intelligence
 * [CreativeAI](http://www.creativeai.net/)
 * [7 Days of Artificial Intelligence](https://www.youtube.com/watch?v=PRdcZSuCpNo&feature=player_embedded)
 * [CS188 Spring 2014](https://www.youtube.com/channel/UCB4_W1V-KfwpTLxH9jG1_iA)
+* [CS188 Spring 2013](https://www.youtube.com/channel/UCTmAYxRV7H9NTdgC9bNixvw)
 * [Ultimate AI battle - Apple vs. Google](http://simplystatistics.org/2016/06/14/ultimate-ai-battle/)
 * [horae.tistory.com/category/A.I인공지능](http://horae.tistory.com/category/%EC%9C%A0%EB%A7%9D%20%EA%B8%B0%EC%88%A0/A.I%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 * [Explainable Artificial Intelligence (XAI)](http://www.darpa.mil/program/explainable-artificial-intelligence)
@@ -29,18 +31,68 @@ Artificial Intelligence
 * [Prof. Fei Fei Li - The Future of AI](https://www.youtube.com/watch?v=lNBX13mrJzc)
 * [인공지능 개론 - 인공신경망](http://m.blog.naver.com/makegoodgame/220568250045)
 * [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0&feature=youtu.be)
+* [facebook.com/pg/awesomeai/notes](https://www.facebook.com/pg/awesomeai/notes)
 * [awesome-starcraftAI - A curated list of resources dedicated to StarCraft AI](https://sktbrain.github.io/awesome-starcraftAI/)
   * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
+  * [sscaitournament.com](http://sscaitournament.com/)
+* [Introducing A.I. Experiments](https://aiexperiments.withgoogle.com/)
+* [RI Seminar: Yann LeCun : The Next Frontier in AI: Unsupervised Learning](https://www.youtube.com/watch?v=IbjF5VjniVE)
+* [Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
+* [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0&feature=youtu.be)
+* [인공지능: 변화와 능력개발](http://www.slideshare.net/TaegyunJeon1/ss-70432543)
+* [인공지능, 기계학습 그리고 딥러닝](http://www.slideshare.net/JinwonLee9/ss-70446412)
+* **[The Great A.I. Awakening](http://www.albireo.net/threads/45878/)**
+* [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
+* [github.com/AndersonJo/neo-notebook/tree/master/Artificial Intelligence Tutorial](https://github.com/AndersonJo/neo-notebook/tree/master/Artificial%20Intelligence%20Tutorial)
+* [휴대폰 안에서도 구현되는 인공지능, XNOR.ai](http://etinow.me/160)
+* [What Everyone is not Telling You about Artificial Intelligence](https://medium.com/@matelabs_ai/what-everyone-is-not-telling-you-about-artificial-intelligence-36c8552f3f53)
+* [www.reddit.com/r/AIKorea](https://www.reddit.com/r/AIKorea/)
+* [Learning AI if You Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
+* [Mnemosyne Algorithm](https://www.youtube.com/channel/UCqmwL_cHCIXmfilulUkiVug) javascript로 만드는 인공지능
+* [All AI Resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
+* [의료에서의 인공지능 정리 파일 김치원 V5](https://www.slideshare.net/ChiKim1/v5-73291156)
+* [Artificial intelligence, revealed](https://code.facebook.com/posts/384869298519962/artificial-intelligence-revealed/) Yann Lecun
+* [“인공지능 다음 기계지능…인류에 주어질 진짜 외뇌”](http://www.hani.co.kr/arti/science/science_general/777906.html)
+* [github.com/jskDr/AINoteBook](https://github.com/jskDr/AINoteBook)
+* [AI혁명_1_초인공지능으로 가는 길](https://www.youtube.com/watch?v=22VUQ7swGI8&feature=youtu.be)
+* [AI혁명_2_영생인가 멸망인가_전반부](https://www.youtube.com/watch?v=WkFw0X-KS6Y&feature=youtu.be)
+* [AI혁명_3_영생인가 멸망인가_후반부](https://www.youtube.com/watch?v=oBCqyXp5t3Q&feature=youtu.be)
+* **[창작자를 위한 인공지능 공부법](http://techm.kr/bbs/?t=Z8)**
+* [AIY Projects: Do-it-yourself AI for Makers](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html?m=1)
+* [Top 10 Recent AI videos on YouTube](http://www.kdnuggets.com/2017/05/top-10-recent-ai-videos-on-youtube.html)
+* [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
+* [인공지능이 소프트웨어 개발자 모두를 먹어 치울까?](https://brunch.co.kr/@synabreu/18)
+* [All AI Learning Resources](https://medium.com/ai-in-medicines/all-ai-learning-resources-bc5f797d0cfe)
+* [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
+* [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
+* [Google I/O 2017 참관기 - 머신 러닝과 AI](http://d2.naver.com/helloworld/6908639)
+* [인공 지능(AI) 시대의 현실적 조언](http://channy.creation.net/blog/1145)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [NAVER Tech Talk: AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
+* [NAVER Tech Talk: AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
+* [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
+* [AI Blocks - A powerfull and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!](https://github.com/MrNothing/AI-Blocks)
+* [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)
+* [세계 최초 실시간 인공지능 생성기 KihwanNet을 소개한다](http://kr.deductiontheory.com/2018/01/kihwannet.html)
+* [ARTIFICIAL INTELLIGENCE: HOW WE HELP MACHINES LEARN](https://paidpost.nytimes.com/facebook/artificial-intelligence-how-we-help-machines-learn.html)
+* [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
+* [인공신경망 (ANN) 공부 루트](https://cailhuiris.github.io/code/2017/04/02/study-route-of-ann.html)
+* [A GENTLE INTRODUCTION TO NEURAL NETWORKS (WITH PYTHON)](https://ep2016.europython.eu/conference/talks/a-gentle-introduction-to-neural-networks-with-python)
+* [Make Your Own Neural Network](http://makeyourownneuralnetwork.blogspot.com/)
 
 # Book
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
+* [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
+* [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
+* [Artificial Intelligence and Games](http://gameaibook.org/)
 
 # Library
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
-* [comma.ai for the people to experiment with](https://github.com/commaai/research)
+* [comma.ai](https://research.fb.com/projects/commai/)
+  * [comma.ai for the people to experiment with](https://github.com/commaai/research)
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)

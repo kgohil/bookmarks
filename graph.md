@@ -31,8 +31,6 @@ Graph
   * concepts are related each other based on education, environment, and persnality
   * concepts are connected by paths because no one can examine our mind as a whole
   * an idea grows as more related concepts get involved
-* [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
-* [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
 * [Good Bye Knowledge Graph, Hello Google Knowledge Vault?](http://gofishdigital.com/good-bye-knowledge-graph-hello-google-knowledge-vault/) Knowledge Vault 개요
 * [MAPPING THE NEXT FRONTIER OF OPEN DATA: CORPORATE DATA SHARING](http://www.unglobalpulse.org/mapping-corporate-data-sharing)
 * [The impact of fast networks on graph analytics, part 1](http://www.frankmcsherry.org/pagerank/distributed/performance/2015/07/08/pagerank.html)
@@ -48,8 +46,10 @@ Graph
 * [Elastic Resource Allocation for Distributed Graph Processing Platforms](http://arxiv.org/abs/1510.03145)
 * [Fast graph operations in quantum computation](http://arxiv.org/abs/1510.03742)
 * [Mapping Electoral Finance in the United States](http://rationocracy.org/mapping-electoral-finance/)
+* [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
+* [오픈 그래프 프로토콜(Open Graph protocol) 페이스북, 트위터 등에서 쓰이는 링크 미리보기? 링크 삽입시 미리보기에 대해 알아 보자](http://zzong.net/post/6)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
@@ -75,7 +75,7 @@ Graph
 * [InfiniteGraph](http://www.objectivity.com/)
 * [Neo4j](http://neo4j.org)
   * [online training](http://neo4j.com/graphacademy/online-course/)
-  * [http://gist.neo4j.org/](http://gist.neo4j.org/)
+  * [gist.neo4j.org](http://gist.neo4j.org/)
   * [neo4j youtube channel](https://www.youtube.com/c/neo4j)
   * [cyphyer cheat sheet](http://assets.neo4j.org/download/Neo4j_CheatSheet_v3.pdf)
   * examples
@@ -88,7 +88,7 @@ Graph
   * [GraphAware](http://graphaware.com/)
     * [Introducing GraphAware Neo4j Framework](http://graphaware.com/neo4j/2014/05/28/graph-aware-neo4j-framework.html)
     * [GraphUnit: Testing Neo4j Code](http://graphaware.com/neo4j/2014/05/29/graph-unit-neo4j-unit-testing.html)
-  * [http://maxdemarzi.com/](http://maxdemarzi.com/)
+  * [maxdemarzi.com](http://maxdemarzi.com/)
     * [FACEBOOK GRAPH SEARCH WITH CYPHER AND NEO4J](http://maxdemarzi.com/2013/01/28/facebook-graph-search-with-cypher-and-neo4j/)
     * [MATCHES ARE THE NEW HOTNESS](http://maxdemarzi.com/2012/10/18/matches-are-the-new-hotness/)
   * [An Introduction to NOSQL, Graph Databases and Neo4j](http://www.slideshare.net/debanjanmahata/an-introduction-to-nosql-graph-databases-and-neo4j) java code example
@@ -120,11 +120,16 @@ Graph
   * [Neo4j sharding aspect](http://stackoverflow.com/questions/21558589/neo4j-sharding-aspect)
   * [Strategies for Scaling Neo4j](http://jimwebber.org/2011/03/strategies-for-scaling-neo4j/)
   * [Understanding Neo4j Scalability](http://info.neo4j.com/rs/neotechnology/images/Understanding%20Neo4j%20Scalability(2).pdf)
-  * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious [Community Post]](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
+  * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
   * [Import 10M Stack Overflow Questions into Neo4j In Just 3 Minutes](http://neo4j.com/blog/import-10m-stack-overflow-questions/)
   * [Neo4j 2.3: Enhanced Enterprise Applications at Scale](http://neo4j.com/blog/neo4j-2-3-enterprise-applications-at-scale/)
   * [openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher](http://www.opencypher.org/)
     * [Meet openCypher: The SQL for Graphs](http://neo4j.com/blog/open-cypher-sql-for-graphs/)
+  * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
+  * [Cypher – the SQL for Graphs – Is Now Available for Apache Spark](https://neo4j.com/blog/cypher-for-apache-spark/)
+    * Cypher는 선언적 그래프 쿼리 언어
+    * Neo4j 팀에서 Cypher with Apache Spark에서 알파 릴리즈 발표
+  * [Immutable graphs with Neo4j](https://virtuslab.com/blog/immutable-graphs-neo4j/)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
@@ -144,7 +149,7 @@ Graph
       ```
   * [Petter Graff](https://www.youtube.com/user/pgscispike)
     * [Getting Started with OrientDB](http://pettergraff.blogspot.kr/2014/01/getting-started-with-orientdb.html)
-  * [http://www.slideshare.net/orientdb](http://www.slideshare.net/orientdb)
+  * [slideshare.net/orientdb](http://www.slideshare.net/orientdb)
   * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
   * [OrientDB vs Neo4j - Comparison of query/speed/functionality](http://www.slideshare.net/kwoxer/orientdb-vs-neo4j-comparison-of-queryspeedfunctionality)
   * [NoSQL Graph Databases - Why, When and Where](http://www.slideshare.net/eugeneh/nosql-graph-databases-why-when-and-where)
@@ -153,6 +158,7 @@ Graph
   * [OrientDB 1.7 Document Graph NoSQL DBMS - Part 2](https://www.youtube.com/watch?v=1Ge-V5kOR3g)
 * [s2graph](https://github.com/daumkakao/s2graph)
   * [HBaseCon 2015: S2Graph - A Large-scale Graph Database with HBase](http://www.slideshare.net/HBaseCon/use-cases-session-5)
+  * [Apache S2Graph(incubating) At Kakao A Large Scale Distributed Graph Database](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%992-5.Apache-S2GRAPHincubating%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EC%A0%81%EC%9A%A9%EC%82%AC%EB%A1%80.pdf)
 * [Sesame](http://rdf4j.org)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)
@@ -171,9 +177,12 @@ Graph
 * **[Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)**
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 * [KickBorn knowledge versus Google](http://selflearningsoft.tumblr.com/)
+* [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
+* [Learning Structured Embeddings of Knowledge Bases](https://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
+* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 - 김상필 솔루션즈 아키텍트 (AWS)](https://www.youtube.com/watch?time_continue=6&v=DZ7HmDQxioc)
 * [ArangoDB](https://www.arangodb.com/)
   * [Native multi-model can compete with pure document and graph databases](https://www.arangodb.com/2015/06/multi-model-benchmark/)
   * [Lockfree protection of data structures that are frequently read](https://www.arangodb.com/2015/08/lockfree-protection-of-data-structures-that-are-frequently-read/)
@@ -195,6 +204,8 @@ Graph
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
   * [blogs.msdn.com/Graph Engine](http://blogs.msdn.com/b/graphengine/)
+* [Graphgenpy](http://konstantinosx.github.io/graphgen-project/)
+  * [Graph Analytics Over Relational Datasets with Python](http://blog.districtdatalabs.com/graph-analytics-over-relational-datasets)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
@@ -214,6 +225,7 @@ Graph
   * [Introducing KeyLines](https://www.youtube.com/watch?v=mpMJXVwHLVM)
   * [Visualizing the Titan Graph Database with KeyLines](https://www.youtube.com/watch?v=BpUMQH4sLEU)
   * [Visualizing the Neo4j graph database with KeyLines](https://www.youtube.com/watch?v=MJFle_hSSps)
+* [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph) python
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [libgtkflow - Flowgraphs for Gtk+3](https://github.com/grindhold/libgtkflow)
 * [Ligra is a lightweight graph processing framework for shared memory](http://www.cs.cmu.edu/~jshun/ligra.html)
@@ -227,9 +239,12 @@ Graph
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [tagflow - stackoverflow graph](http://stared.github.io/tagoverflow/?site=stackoverflow&size=32)
-* [Tinkerpop](http://tinkerpop.incubator.apache.org/)
+* [Tinkerpop](http://tinkerpop.incubator.apache.org/) 분산 컴퓨팅 그래프 프레임 워크
   * [TinkerPop3](https://github.com/apache/incubator-tinkerpop)
   * [blueprints](https://github.com/tinkerpop/blueprints/wiki)
+  * [Implementing Temporal Graphs with Apache TinkerPop and HGraphDB](http://blog.cloudera.com/blog/2017/08/implementing-temporal-graphs-with-apache-tinkerpop-and-hgraphdb/)
+    * HGraphDB는 TinkerPop에 HBase 백엔드를 제공
+    * HGraphDB 데이터베이스 디자인에 대한 개요와 TinkerPop을 사용하여 그래프 데이터를 삽입하고 쿼리 할 수있는 몇 가지 예제 (코드 포함) 소개
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)
   * [Object Graph Mapper for managing RDF data in Mongo](https://github.com/talis/tripod-php)
 
@@ -239,10 +254,24 @@ Graph
 * [jGraph](http://www.jgraph.com)
 * [jung](https://code.google.com/p/jung/)
 * [NetworkX](http://networkx.github.io/)
-  * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
+  * [20140830, Pycon2014 NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
   * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
+
+# Paper
+* [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
+* [Reading and Reasoning with Knowledge Graphs](http://www.cs.cmu.edu/~mg1/thesis.pdf)
+* [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
+* [Pregel: A System for Large-Scale Graph Processing](http://kowshik.github.io/JPregel/pregel_paper.pdf)
+  * 구글 KG의 근간이 되는 시스템
+  * 이 논문을 기반으로 개발된 것이 Apache Jena
+* [Easy Access to the Freebase Dataset](http://ad-publications.informatik.uni-freiburg.de/WWW_FreebaseEasy_BBBH_2014.pdf)
+  * Freebase를 쉽게 브라우징할 수 있는 http://freebase-easy.cs.uni-freiburg.de/browse/ 라는 사이트 구축 논문
+* [The Berlin SPARQL Benchmark](http://wifo5-03.informatik.uni-mannheim.de/bizer/pub/Bizer-Schultz-Berlin-SPARQL-Benchmark-IJSWIS.pdf)
+  * BSBM은 LUBM과 함께 Triple Store의 성능을 비교하기 위한 대표적인 벤치마크 테스트
+* [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
+* [Sematch: Semantic Entity Search from Knowledge Graph](http://km.aifb.kit.edu/ws/sumpre2015/paper4.pdf)
 
 # RDF
 * [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)

@@ -5,7 +5,7 @@
 * [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
 * ['The Rust Programming Language' E-Books](http://killercup.github.io/trpl-ebook/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
-* [http://www.reddit.com/r/rust](http://www.reddit.com/r/rust)
+* [reddit.com/r/rust](http://www.reddit.com/r/rust)
 * [Getting started contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html)
 * [Worst-case optimal joins, in dataflow](http://www.frankmcsherry.org/dataflow/relational/join/2015/04/11/genericjoin.html)
 * [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
@@ -83,6 +83,7 @@
 * [Index 1,600,000,000 Keys with Automata and Rust](http://blog.burntsushi.net/transducers/)
 * [Writing an OS in Rust](http://os.phil-opp.com/)
 * [Making Popcorn: Adding a disk to a Rust Rumprun Unikernel](https://polyfractal.com/post/adding-a-disk-to-a-rust-rumprun-unikernel/)
+* [Why Rust is the future of robotics](https://medium.com/pollenrobotics/why-rust-is-the-future-of-robotics-81d7fb68fe37)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
@@ -115,6 +116,8 @@
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
+* Rusty Machine
+  * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)

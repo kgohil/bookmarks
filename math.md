@@ -1,20 +1,26 @@
 Math
 ====
+* [수학의 모든 것 지도 한 장에 담다](http://m.dongascience.com/news.php?idx=16845)
 * [Tricki – a Wiki-style site that is intended to develop into a large store of useful mathematical problem-solving techniques](http://www.tricki.org/)
-* [http://blog.naver.com/mbko](http://blog.naver.com/mbko)
+* [blog.naver.com/mbko](http://blog.naver.com/mbko)
   * [미적분학; 벡터미분4강, 일반곡선좌표계, 계량텐서(metric tensor), 공변벡터 & 반변벡터](http://m.blog.naver.com/mbko/130108166782)
+* [벡터미적분학+상미분방정식](https://www.youtube.com/playlist?list=PLGqSWalYhuTW6P994i9OKhyCav-qA2Ns3)
+* [집합론](https://www.youtube.com/playlist?list=PLGqSWalYhuTX1ADacN59EG3t90wtvSfrv)
+* [장자윤 선생님의 편입수학 - 미분의 정의와 뜻](https://www.youtube.com/watch?v=cr_SVH27n4c&feature=youtu.be)
 * [codebymath.com](http://www.codebymath.com/)
+* [Derivative Calculator](https://www.derivative-calculator.net/)
+* [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
 * [math is fun](http://www.mathisfun.com/)
 * [mathworld.wolfram.com/about](http://mathworld.wolfram.com/about/)
 * [mathclouds.org](http://www.mathclouds.org/)
 * [mathfreeon.com - Mathematical Data Analysis Engine Over Cloud](http://www.mathfreeon.com/)
+* [mathjax.org](https://www.mathjax.org/)
 * [ilectureonline.com/](http://www.ilectureonline.com/)
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [IMAGINARY is your place for open and interactive mathematics. Join a worldwide community of math enthusiasts!](http://imaginary.org/)
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm?resubmit=hn)
-* [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
-* [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
-* [devluna.blogspot.com/search/label/Math](http://devluna.blogspot.com/search/label/Math)
+* [파이썬으로 풀어보는 2017학년도 대학수학능력시험 수학영역](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA)
+* [파이썬으로 풀어보는 2018학년도 대학수학능력시험 수학영역 가 형](https://github.com/serithemage/2018_CSAT_Mathematics_Type_GA)
 * [Analysis of a Brute-Force Shuffle](http://www.freefour.com/analysis-of-a-brute-force-shuffle/)
 * [Finding e within the randoms](http://blog.isaachodes.io/p/finding-e-randomly/index.html)
 * [Theoretical Computer Science Cheat Sheet](http://www.tug.org/texshowcase/cheat.pdf)
@@ -38,7 +44,6 @@ Math
 * [the new boston math](https://www.thenewboston.com/videos_math.php)
 * [FERMAT POINT](http://winkervsbecks.github.io/fermat-point/)
 * [Fast Approximate Logarithms, Part III: The Formulas](http://www.ebaytechblog.com/2015/06/25/fast-approximate-logarithms-part-iii-the-formulas/)
-* [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
 * [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
 * [Pythagorean Theorem](http://www.cut-the-knot.org/pythagoras/)
 * [Numerators of harmonic numbers](http://www.johndcook.com/blog/2015/07/19/numerators-of-harmonic-numbers/)
@@ -51,6 +56,25 @@ Math
 * [수리물리학](http://www.kocw.net/home/search/kemView.do?kemId=317988)
 * [Information Geometry](http://math.ucr.edu/home/baez/information/)
 * [괴델의 불완전성 정리](https://mathemedicine.github.io/godel.html)
+* [www.mathplanet.com/education/sat/section-1/problem-1](http://www.mathplanet.com/education/sat/section-1/problem-1)
+* [1부 : 복소수](https://www.facebook.com/lab4all/posts/565829610276678)
+* [2부 : 오일러의 공식](https://www.facebook.com/lab4all/posts/573903102802662)
+* [3부 : 푸리에 해석](https://www.facebook.com/lab4all/posts/590737297785909)
+* [푸리에 분석 - 왜 할까요](https://helloworldpark.github.io/mathematics/2017/02/25/FFT_01.html)
+* [푸리에 분석 - 고속 푸리에 변환 증명하기](https://helloworldpark.github.io/mathematics/2017/02/26/FFT_02.html)
+* [푸리에 분석 - 고속 푸리에 변환 구현하기](https://helloworldpark.github.io/mathematics/2017/02/26/FFT_03.html)
+* [SageMath - a free open-source mathematics software system licensed under the GPL](http://www.sagemath.org/)
+  * [SageMathTM Advice For Calculus](https://academics.rowan.edu/csm/departments/math/facultystaff/faculty/nguyen/sage/SageMathAdviceforCalculus.pdf)
+* [달샘의 달달한 수학](https://www.youtube.com/channel/UCJ-WbWE1jydR_t7kWIhAp1w)
+* [스플라인 보간법 - 점을 부드럽게 잇기](https://helloworldpark.github.io/jekyll/update/2017/02/04/Spline.html)
+  * [lect_spline.pdf](http://www.geos.ed.ac.uk/~yliu23/docs/lect_spline.pdf)
+* [The best 10 free programs for mathematics (Part I)](http://banana-soft.com/best-10-free-programs-mathematics-part-i?language=en)
+* [The best 10 free programs for mathematics (Part II)](http://banana-soft.com/best-10-free-programs-mathematics-part-ii?language=en)
+* [The best 10 free programs for mathematics (Part III)](http://banana-soft.com/best-10-free-programs-mathematics-part-iii?language=en)
+* [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk)
+* [Explained Visually](http://setosa.io/ev/)
+* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/)
+* [엔지니어를 위한 모두의 수학 고교수학 부터 선형대수까지 - 삼각함수 1 (사인함수)](https://www.youtube.com/watch?v=zuXrS1inaHI)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -58,6 +82,8 @@ Math
 
 # Book
 * [Geogebra를 활용한 수학수업 및 수업자료제작](https://wikidocs.net/book/188)
+* [immersive linear algebra](http://immersivemath.com/ila/index.html)
+* [openstax.org/subjects/math](https://openstax.org/subjects/math)
 
 # Calculus
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
@@ -74,6 +100,7 @@ Math
 * [An Intuitive Explanation of Fourier Theory](http://cns-alumni.bu.edu/~slehar/fourier/fourier.html)
 * [Because it's Friday: Visualizing the Discrete Fourier Transform](http://blog.revolutionanalytics.com/2015/09/because-its-friday-visualizing-ffts.html#)
 * [Fourier visualized](https://84c67cd8f568acc648fb74bc321df20db70c2600.googledrive.com/host/0B3p9nx7jwyf9MjFtY3d1aXVBMjA/fourier.gif)
+* [PERFORMING A FAST FOURIER TRANSFORM (FFT) ON A SOUND FILE](http://www.dummies.com/programming/python/performing-a-fast-fourier-transform-fft-on-a-sound-file/) python
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
@@ -81,9 +108,15 @@ Math
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)
 
+# Library
+* [KATEX - The fastest math typesetting library for the web](https://khan.github.io/KaTeX/)
+
 # Linear Algebra
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
+* [2013 2학기 선형대수 이상화 교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
+* [선형대수 한양대학교 이상화](http://www.kocw.net/home/m/search/kemView.do?kemId=977757)
+* [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c)
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)
@@ -116,8 +149,18 @@ Math
 * [21. Functions and Relations, diagrammatically](http://graphicallinearalgebra.net/2015/09/08/21-functions-and-relations-diagrammatically/)
 * [Interactive Linear Transformations](http://notmatthancock.github.io/2015/09/12/interactive-linear-transformations.html#linear-transformation)
 * [SVD - We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)
+* [특이값 분해(Singular Value Decomposition, SVD)의 활용](http://darkpgmr.tistory.com/106)
 * [Least squares and regularization](http://scottsievert.com/blog/2015/11/18/inverse-part-1/)
 * [The Calculus You Need](https://www.youtube.com/watch?v=f0BxAtprWts&index=3&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Linear algrbra](https://www.slideshare.net/ssuser7e10e4/linear-algrbra)
+* [Matrix calculus](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
+* [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
+* [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
+* [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
+* [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
+* **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
+* [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
@@ -127,7 +170,8 @@ Math
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
 * [Markov Chains - Explained](http://techeffigytutorials.blogspot.kr/2015/01/markov-chains-explained.html)
-* [https://github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
+* [What is a Markov chain?](https://www.youtube.com/watch?v=o-jdJxXL_W4)
+* [github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
 * [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Markov Composer - Using machine learning and a Markov chain to compose music](http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/)
@@ -138,6 +182,16 @@ Math
 * [Lecture 9: Markov Decision Process II](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 * [Markov models](https://phvu.net/2011/03/30/markov-models/)
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
+* [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc&feature=share)
+* [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
+* [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
+* **[How I generated inspirational quotes with less than 20 lines of python code](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)**
+* **[Some Applications of Markov Chain in Python](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)**
+  * 자연어의 마르코프 모델
+    * 마르코프 체인을 사용하여 영어 텍스트의 통계 모델 작성.
+    * 마르코프 체인을 시뮬레이션하여 양식화된 pseudo-random text를 생성
+  * 저자 파악하기
+    * 학습을 위한 많은 샘플 크기의 텍스트가 주어지면 알려지지 않은 텍스트의 저자를 추측 할 수 있는 authorship detector를 구현
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
@@ -165,6 +219,17 @@ Math
 * [18. Markov Chains III](https://www.youtube.com/watch?v=HIMxdWDLEK8)
 * [Lecture 31: Markov Chains | Statistics 110](https://www.youtube.com/watch?v=8AJPs3gvNlY)
 * [Lecture 32: Markov Chains Continued | Statistics 110](https://www.youtube.com/watch?v=aBGOyZv2pZE)
+* [No order left behind; no shopper left idle.  Using Monte Carlo simulations to balance supply & demand in a marketplace](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
+* [몬테카를로 확률 시뮬레이션을 이용한 게임레벨디자인 발표자료](http://blog.naver.com/timeloader/221119564219)
+* [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [Monte Carlo Integration](http://incredible.ai/statistics/2017/11/18/Monte-Carlo/)
+* [Importance Sampling](http://incredible.ai/statistics/2017/11/25/Importance-Sampling/) python numpy code
+* [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
+* Monte Carlo method
+  * [1](https://wonseokjung.github.io/reinforcementlearning/update/MonteCarlomethod/)
+  * [2](https://wonseokjung.github.io/reinforcementlearning/update/MC2/)
+  * [3](https://wonseokjung.github.io//reinforcementlearning/update/RL-MC3/)
+  * [4](https://wonseokjung.github.io//reinforcementlearning/update/RL-MC4/)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
@@ -173,6 +238,16 @@ Math
 # Prime Numbers
 * [unusual and physical methods for finding prime numbers](http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/unusual.htm)
 * [Prime Number Patterns](http://www.jasondavies.com/primos/)
+
+# Python
+* [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
+* [devluna.blogspot.com/search/label/Math](http://devluna.blogspot.com/search/label/Math)
+  * [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
+* [2017학년도 대학수학능력시험 문제 수학영역(가형)](https://anaconda.org/ymath/2017_csat_mathematics_type_ga/notebook) python으로 수능 풀이
+* **[Numerical Tours of Data Sciences](http://www.numerical-tours.com/)**
+  * 수학 코드의 주요 개념을 python julia등의 코드로 설명
+* [Tangent: Source-to-Source Debuggable Derivatives](https://research.googleblog.com/2017/11/tangent-source-to-source-debuggable.html)
+* [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
 
 # Set
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/)

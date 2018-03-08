@@ -12,7 +12,7 @@ Art
 * [Iconic Patent Art](http://www.howacarworks.com/blog/iconic-patent-posters)
   * [“특허 도면도 예술”](http://techholic.co.kr/archives/39339)
 * [tvN 미술 강의로 본 인문학 열풍의 그늘](http://www.koreanart21.com/review/artWorldStory/view?id=5883&page=1)
-* [[진중권 기고] 조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
+* [조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
 * [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
 
 # Animation & Comics
@@ -39,7 +39,7 @@ Art
 * [clean up your mess](http://www.visualmess.com/index.html)
 * [CSS Polygons – 30 Endangered Species, 30 Pieces](http://species-in-pieces.com/)
 * [GIF에 흰 줄만 그리면 3D GIF가 된다!](http://www.huffingtonpost.kr/2015/03/25/story_n_6944502.html)
-* [\[소셜리딩\] #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
+* [소셜리딩 #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
 * [행동을 유도하는 재밌는 방법, 넛지](http://ppss.kr/archives/40549)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth)
 * [Dieter Rams: If I Could Do It Again, "I Would Not Want To Be A Designer"](http://m.fastcompany.com/3043815/dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer)
@@ -53,13 +53,13 @@ Art
 * ['법률문학의 대가' 허먼 멜빌](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7052434.html)
 * [귄터 그라스가 한국의 민주주의를 위해 한 일](http://www.huffingtonpost.kr/2015/04/13/story_n_7054022.html)
 * [DISPUTED SHAKESPEARE PLAY IS 'PROVEN' GENUINE](http://www.shortlist.com/entertainment/books/disputed-shakespeare-play-is-proven-genuine)
-* [[서평] 초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
+* [초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
 * [앙드레 말로](http://www.segye.com/content/html/2015/05/01/20150501002376.html?OutUrl=naver) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
 * [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
 * [표절에는 공소시효가 없다](http://www.huffingtonpost.kr/seongho-haam/story_b_7633372.html)
 
 ## 삼국지
-* [[해외역사] 삼국지 최고의 등산왕 등애 ](http://blog.daum.net/aminoginji/242)
+* [삼국지 최고의 등산왕 등애](http://blog.daum.net/aminoginji/242)
 * [제갈량의 황제꿈](http://blog.daum.net/shanghaicrab/16153989)
 * [제갈량에게는 황위를 찬탈할 마음이 없었다](http://blog.daum.net/shanghaicrab/16154604)
 
@@ -78,14 +78,14 @@ Art
 * [Legendary Lands: Umberto Eco on the Greatest Maps of Imaginary Places and Why They Appeal to Us](http://www.brainpickings.org/2014/02/17/legendary-lands-umberto-eco/)
 
 # Movie
-* [영화 퍼즐: \[밀양\]의 진짜 범인은 누구인가](http://slownews.kr/35410)
-* [내가 보수반동 영화 [포레스트 검프]를 사랑하는 이유](http://slownews.kr/35962)
-* [\[국제시장\]과 비평의 소외 그리고 덧없는 스캔들](http://slownews.kr/36517)
+* [영화 퍼즐: 밀양의 진짜 범인은 누구인가](http://slownews.kr/35410)
+* [내가 보수반동 영화 포레스트 검프를 사랑하는 이유](http://slownews.kr/35962)
+* [국제시장과 비평의 소외 그리고 덧없는 스캔들](http://slownews.kr/36517)
 * [국제시장 : 세대간의 공감](http://ppss.kr/archives/37359)
 * [4인 4색: 영화감독의 개성 있는 촬영기법](http://slownews.kr/37760)
 * [2015년 지금 여기의 마녀사냥](http://slownews.kr/37701)
 * 위플래시
-  * [음악 무협 영화의 탄생 \[위플래쉬\]](http://www.huffingtonpost.kr/owen-joe/story_b_6891224.html)
+  * [음악 무협 영화의 탄생 위플래쉬](http://www.huffingtonpost.kr/owen-joe/story_b_6891224.html)
   * [위플래쉬 - 다시는 연주자를 무시하지 마라](http://www.huffingtonpost.kr/kyung-heo/story_b_6875658.html)
   * [<위플래쉬> 드러머 앤드류의 50가지 그림자](http://www.huffingtonpost.kr/jongwoo-won/story_b_6914302.html)
 * ['다크 나이트'의 조커에 얽힌 히스 레저의 5가지 이야기](http://www.huffingtonpost.kr/2015/04/06/story_n_7008744.html)
@@ -104,12 +104,14 @@ Art
 * [재수강하는 건축학개론](http://blog.daum.net/darl.kim/)
 * [우리에게 신의 신비를 알려 준 SF 영화와 드라마 13편](http://www.huffingtonpost.kr/2015/10/26/story_n_8387826.html)
 * [영화 매니아가 뽑은 음악영화 베스트 10](http://ppss.kr/archives/58053)
+* [뉴욕을 배경으로 펼치는 사랑스러운 로맨스 무비 TOP 6 우리의 감성을 자극하는 NEW YORK, NEW YORK](http://magazine2.movie.daum.net/movie/40218)
+* [기독교에 살(煞)을 날린 영화, ‘곡성’](http://www.christiantoday.co.kr/news/290962)
 
 # Music
-* [http://bgmstore.net/](http://bgmstore.net/)
-* [http://apps.avid.com/ProToolsFirst/](http://apps.avid.com/ProToolsFirst/)
-* [http://www.beautifulguitarchords.com/](http://www.beautifulguitarchords.com/)
-* [http://www.playkeys.io/](http://www.playkeys.io/)
+* [apps.avid.com/ProToolsFirst](http://apps.avid.com/ProToolsFirst/)
+* [beautifulguitarchords.com](http://www.beautifulguitarchords.com/)
+* [bgmstore.net](http://bgmstore.net/)
+* [playkeys.io](http://www.playkeys.io/)
 * [지금은 잊혀진, 그러나 위대한 크리스마스 노래 13](http://www.huffingtonpost.kr/2014/12/17/story_n_6338548.html)
 * [진부하지만 중독적인 크리스마스 노래 6](http://www.huffingtonpost.kr/2014/12/24/story_n_6377232.html)
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
@@ -133,7 +135,7 @@ Art
 * [신해철은 죽고, 서태지는 사라졌다](http://www.huffingtonpost.kr/yongjun-min/story_b_8348414.html)
 
 ## Classic
-* [http://www.kkacl.com/md](http://www.kkacl.com/md)
+* [kkacl.com/md](http://www.kkacl.com/md)
 * [Rachmaninov on the future of broadcasting](http://www.gramophone.co.uk/feature/rachmaninov-on-the-future-of-broadcasting)
 * [기타 5대로 베토벤 연주를…](http://techholic.co.kr/archives/29836)
 
@@ -209,16 +211,17 @@ Art
 * [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [Newbie to Expert Photo Editing in 5 Minutes](https://www.polarr.co/guide)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
+* [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 * [19세기 손톱만한 ‘마이크로 사진’ 유행한 이유](http://techholic.co.kr/archives/26035)
-* [[인터뷰] 은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
+* [은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
 * [포토샵 없이 만든 절묘한 조형 몽타주 사진](http://ppss.kr/archives/56371)
-* [[개천절 특집] 하늘이 열린 날, 스마트폰으로 하늘 사진 촬영팁](http://www.earlyadopter.co.kr/64361)
+* [하늘이 열린 날, 스마트폰으로 하늘 사진 촬영팁](http://www.earlyadopter.co.kr/64361)
 * [Anamorphic format](https://en.wikipedia.org/wiki/Anamorphic_format)
 * [역사적 순간 담은 사진의 힘](http://techholic.co.kr/archives/52806)
 * [ 속 빛나는 피사체…형광 사진술](http://techholic.co.kr/archives/57753)
 
 ## Photos
-* [https://prime.500px.com](https://prime.500px.com)
+* [prime.500px.com](https://prime.500px.com)
 * 한국
   * [일제강점기 초기, 독일 신부가 찍은 1911년의 한국(화보)](http://www.huffingtonpost.kr/2015/09/13/story_n_8131258.html)
   * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
@@ -238,18 +241,18 @@ Art
   * [느와르처럼…타임랩스 속 샌프란시스코](http://techholic.co.kr/archives/29457)
   * [당신이 이제껏 보지 못했던 이탈리아의 모습](http://www.huffingtonpost.kr/2015/04/21/story_n_7105000.html)
   * [드론으로 촬영한 세계 명소들, 원래 건축물이란 이런 각도로 보는 것!](http://www.huffingtonpost.kr/2015/04/20/story_n_7098168.html)
-  * [[2015 내셔널 지오그래픽 트래블러 사진대회] 최고의 사진 10장을 골랐다](http://www.huffingtonpost.kr/2015/05/12/story_n_7262700.html)
+  * [2015 내셔널 지오그래픽 트래블러 사진대회 최고의 사진 10장을 골랐다](http://www.huffingtonpost.kr/2015/05/12/story_n_7262700.html)
   * [우주에서 본 민낯 지구](http://techholic.co.kr/archives/28974)
   * [지난 10년의 역사를 말해주는 50장의 사진들](http://www.huffingtonpost.kr/2015/05/15/story_n_7289712.html)
-  * [[월드포스트그램] 칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
-  * [http://www.bethmoon.com/](http://www.bethmoon.com/)
+  * [칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
+  * [bethmoon.com](http://www.bethmoon.com/)
     * [숨을 죽이게 하는 거대한 바오밥 나무의 아름다움](http://www.huffingtonpost.kr/2015/05/29/story_n_7466784.html)
   * [출입금지구역 '체르노빌 존'에서 촬영한 무시무시한 사진 15장](http://www.huffingtonpost.kr/dl-cade/story_b_7481978.html)
   * [세상의 얼굴들｜티티카카 호수의 우로스 섬과 타킬레 섬(화보)](http://www.huffingtonpost.kr/2015/05/31/story_n_7478686.html)
   * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
   * ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
   * [베트남의 극적인 풍경을 감상하라(사진)](http://www.huffingtonpost.kr/2015/06/12/story_n_7567678.html)
-  * [[월드포스트그램] 전 세계 핫한 화산들을 모았다(사진)](http://www.huffingtonpost.kr/2015/08/26/story_n_8041570.html)
+  * [전 세계 핫한 화산들을 모았다(사진)](http://www.huffingtonpost.kr/2015/08/26/story_n_8041570.html)
   * [2015년 도시 사진 수상작들 : 당신은 어떤 삶을 살고 있는가(화보)](http://www.huffingtonpost.kr/2015/10/19/story_n_8328254.html)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)

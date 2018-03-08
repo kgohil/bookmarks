@@ -9,6 +9,7 @@ Travel
 * [시차증을 극복하는 현명한 방법 10](http://www.huffingtonpost.kr/travelzoo/story_b_7009334.html)
 * [These Are Some of the Coolest Libraries in the World](http://www.slate.com/blogs/behold/2014/12/05/amazing_libraries_from_around_the_world_in_the_book_reflections_libraries.html)
 * [52 Places to Go in 2015](http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=2)
+* [52 Places to Go in 2017](http://www.nytimes.com/interactive/2017/travel/places-to-visit.html)
 * [해외여행자에게 유용한 지도 앱 5](http://www.huffingtonpost.kr/2015/03/20/story_n_6907744.html)
 * [해외여행 가기 전에 꼭 설치해야 할 모바일 앱 4선](http://ppss.kr/archives/70895)
 * [탐험가 7인이 꼽은 '지구 상에서 가장 아름다운 여행지' 9곳](http://www.huffingtonpost.kr/2015/02/04/story_n_6610620.html)
@@ -17,7 +18,7 @@ Travel
 * [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
 * [해외여행 필수 노하우 10](http://ppss.kr/archives/46464)
 * [당신의 여행을 너무 쉽게 만들어줄 잔기술](http://www.huffingtonpost.kr/2015/06/22/story_n_7633886.html)
-* [[허핑턴포스트코리아 인터뷰]한 달에 한 도시: airbnb로 여행하기](http://www.huffingtonpost.kr/byungchul-kim/story_b_7481370.html)
+* [한 달에 한 도시: airbnb로 여행하기](http://www.huffingtonpost.kr/byungchul-kim/story_b_7481370.html)
 * [여행은 길 위의 학교다 | 허핑턴포스트코리아 여행 섹션을 열며](http://www.huffingtonpost.kr/mina-sohn/-_541_b_7481416.html)
 * [Living in: The world’s most affordable cities](http://www.bbc.com/travel/story/20140523-living-in-the-worlds-most-affordable-cities)
 * [34 Lost Cities Forgotten by Time](http://www.touropia.com/lost-cities/)
@@ -62,10 +63,16 @@ Travel
 * [물가가 저렴한 해외여행지](https://www.skyscanner.co.kr/news/cheap-countries-to-travel)
 * [해외여행 시 요긴한 아이템 vs 쓸데 없는 아이템](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160829140611730)
 * [당신과 달리는 길](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160928013411037)
+* [항공 덕후의 퍼스트클래스 항공권 구매방법](http://chemistyworld.tistory.com/121)
+* [fltgraph.co.kr](http://fltgraph.co.kr/) 좋은 스케줄의 저렴한 항공권 여정 소개
+  * [blog.fltgraph.com](https://blog.fltgraph.com/)
+* [휴양지 여행 백과](http://100.daum.net/series/17/list)
+* [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
 * [2만원 이하로 서울서 행복해지는 방법 7](http://www.huffingtonpost.kr/terence-kim/2-_b_6989706.html)
+* [외국느낌 99% 국내 이국적 여행지 best7](https://story.kakao.com/ch/bestip/fZCUQZFnOe0)
 
 # Europe
 * [내 생에 최고의 여행 사진 남기기](http://jh4hj.tistory.com/entry/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EB%82%A8%EA%B8%B0%EA%B8%B0-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EC%9E%98-%EC%B0%8D%EB%8A%94-%EB%B9%84%EA%B2%B0-%EC%9C%A0%EB%9F%BD-%EA%B0%81-%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%8F%AC%ED%86%A0%EC%8A%A4%ED%8C%9F)
@@ -75,6 +82,7 @@ Travel
 * [키스를 부르는 로맨틱한 유럽의 스폿 7(화보)](http://www.huffingtonpost.kr/2015/08/20/story_n_8013604.html)
 * [유럽에서 독특한 체험을 원하는 당신이 가야할 이색 테마파크 5](http://www.huffingtonpost.kr/2015/10/22/story_n_8364056.html)
 * [당장 떠나고 싶어지는 동유럽 소도시 BEST 6](http://1boon.kakao.com/wishbeen/20160701)
+* [지금도 그곳은 여름](https://brunch.co.kr/@turista/41)
 
 ## Bulgaria
 * [드론을 띄워서 찍은 물에 잠긴 교회의 외로운 모습](http://www.huffingtonpost.kr/2015/06/01/story_n_7489732.html)
@@ -92,7 +100,7 @@ Travel
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
 
 ## France
-* [남프랑스 \[코트다쥐르\] 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
+* [남프랑스 코트다쥐르 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
 * [파리에서 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_7008826.html)
 * [파리 여행, 깨알 재미, 파리 여행에서 만난 우연한 순간들](http://lebenskr.tistory.com/155)
 * [다빈치 코드의 흔적을 찾아간 파리 여행](http://lebenskr.tistory.com/148)
@@ -107,6 +115,7 @@ Travel
 * [아이슬란드의 압도적인 풍광을 담은 15장의 인스타그램 사진들](http://www.huffingtonpost.kr/2015/06/19/story_n_7618654.html)
 
 ## Italy
+* [피렌체 3박 4일 가이드 북](https://brunch.co.kr/@turista/19)
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
 * [미켈란젤로와 교황의 천장](http://jh4hj.tistory.com/entry/%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%99%80-%EA%B5%90%ED%99%A9%EC%9D%98-%EC%B2%9C%EC%9E%A5)
 * [여행사진작가가 추천하는 '머물고 싶은 이탈리아 남부 해안 소도시 5](http://www.huffingtonpost.kr/2015/05/31/story_n_7477874.html)
@@ -115,7 +124,7 @@ Travel
 * [아드리아 바다에는 세상에서 가장 아기자기한 부라노 섬이 있다(화보)](http://www.huffingtonpost.kr/2015/10/02/story_n_8231306.html)
 * [뒷골목이 매력적인 로마를 드라마틱하게 여행하는 방법 10](http://www.huffingtonpost.kr/2016/05/29/story_n_10125554.html)
 * [밀라노에 열린 몰스킨 카페](http://www.earlyadopter.co.kr/79122)
-* [[여행의 향기] 피렌체 대성당..거대한 르네상스와 마주하다](http://media.daum.net/life/outdoor/leisure/newsview?newsId=20161009162802356)
+* [피렌체 대성당..거대한 르네상스와 마주하다](http://media.daum.net/life/outdoor/leisure/newsview?newsId=20161009162802356)
 
 ## Netherland
 * ['네덜란드의 베니스' 히트호른 마을의 그림 같은 풍경(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278092.html)
@@ -147,6 +156,7 @@ Travel
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #2 건축(화보)](http://www.huffingtonpost.kr/2015/08/12/story_n_7974992.html)
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #3 액티비티](http://www.huffingtonpost.kr/2015/08/21/story_n_8019148.html)
 * [바르셀로나 보른지구의 숨겨진 작은 상점 Best 4](http://www.huffingtonpost.kr/sunhee-an/story_b_8254804.html)
+* [투대리의 여행이야기/스페인](http://2daeri.tistory.com/category/%ED%88%AC%EB%8C%80%EB%A6%AC%EC%9D%98%20%EC%97%AC%ED%96%89%20%EC%9D%B4%EC%95%BC%EA%B8%B0/%EC%8A%A4%ED%8E%98%EC%9D%B8)
 
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)
@@ -155,6 +165,9 @@ Travel
 
 # Asia
 * [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)
+
+## Bhutan
+* [지금, 행복하신가요?](http://v.media.daum.net/v/20170525040024309?d=y)
 
 ## China
 * [2015년, 베이징 여행자를 위한 추천 코스 & 팁](http://ppss.kr/archives/48382)
@@ -181,12 +194,17 @@ Travel
 
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
+* [퇴사준비생의 도쿄 출장지 27](http://1boon.kakao.com/publy/tokyo1)
 * [ko.wasa-bi.com](http://ko.wasa-bi.com/)
+* [livejapan.com/ko](https://livejapan.com/ko/)
 * [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)
 * [세계 문화 유산 지정 논란의 장소, 일본 '군함 섬'에 가다](http://www.huffingtonpost.kr/2015/05/25/story_n_7434496.html)
 * [연휴 활용해 갈 수 있는 일본 여행지 4](http://www.huffingtonpost.kr/2015/09/24/story_n_8187334.html)
 * [역사와 로망이 깃든 섬, 나가사키](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161013094617186&RIGHT_LIFE=R3)
 * ['유니버셜 스튜디오 재팬' 여행 꿀팁 총정리](http://1boon.daum.net/wishbeen/20161101)
+* [잘 먹고 갑니다, 후쿠오카 먹다 보면 알게 되는 것들](https://brunch.co.kr/@mistyfriday/113)
+* [홋카이도 단상](https://estimastory.com/2017/08/13/hokkaido/)
+* [홋카이도 한달살기](https://brunch.co.kr/magazine/summerhokkaido)
 
 ## Laos
 * [라오스 여행을 가기 전에 반드시 알아야 할 7가지](http://ppss.kr/archives/33117)
@@ -201,14 +219,21 @@ Travel
 ## Seychelles
 * ['세이셸'에서 아무 것도 안할 자유를 누리다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150507103201914&RIGHT_LIFE=R3)
 
+## Srilanka
+* ['인도양의 진주' 스리랑카, 푸른 바다서 대나무 낚시 즐겨볼까](http://v.media.daum.net/v/20180218150404823)
+
 ## Taiwan
 * [꿀 같은 휴가, 꿈같은 3박 4일의 대만](http://1boon.kakao.com/wishbeen/20161029)
+* [맥주랑 꿀 조합이라는 대만 과자](http://1boon.kakao.com/1hows/589)
 
 ## Thailand
 * [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)
 * [태국 방콕에서 환전을 가장 유리하게 하고 싶다면?](http://cafe.daum.net/letsgothailand/AOb8/170?q=%B9%E6%C4%DB%20%C8%AF%C0%FC&re=1)
 * [brunch.co.kr/@slowlife](https://brunch.co.kr/@slowlife/)
 * [태국에는 당신을 행복하게 해줄 '해피섬'이 있다](http://www.huffingtonpost.kr/spot/story_b_8156244.html)
+* [방콕으로 떠나는 당신을 위한 10가지 조언](http://1boon.daum.net/gilbut/5a655039ed94d20001c1e73f)
+* [카오산 로드 호텔 추천 2곳 : 가격 및 정보 보기](http://hotelskr.tistory.com/552)
+* [방콕의 최고의 깨끗함을 자랑하는 인기 호스텔 - 유디 방콕 호스텔(Udee Bangkok Hostel)](https://thailove.net/bbs/board.php?bo_table=bed_gh&wr_id=15006&sfl=wr_subject%7C%7Cwr_content&stx=De+Moc&sop=and)
 
 ## Turkey
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)
@@ -247,3 +272,4 @@ Travel
 # Austrailia
 * [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)
 * [힐링이 필요한 당신이 호주로 떠나야 하는 이유 19](http://www.huffingtonpost.kr/2015/06/16/story_n_7541408.html)
+* [나만 알고 싶던 곳, 서호주](https://brunch.co.kr/@wowaustralia/1)

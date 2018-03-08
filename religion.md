@@ -4,7 +4,7 @@ Religion
 * [사이언톨로지 다큐 '고잉 클리어'에 나오지 않은 놀라운 이야기](http://www.huffingtonpost.kr/2015/04/01/story_n_6983080.html)
 * [사이언톨로지는 사이비(cult)인가 (1/2)](http://newspeppermint.com/2015/04/07/m-cult1/)
 * [사이언톨로지는 사이비(cult)인가 (2/2)](http://newspeppermint.com/2015/04/07/m-cult2/)
-* [[The New York Times] 지구촌 전쟁은 유일신 종교들이 문제다](http://media.daum.net/series/112828//newsview?seriesId=112828&newsId=20150408000607402)
+* [지구촌 전쟁은 유일신 종교들이 문제다](http://media.daum.net/series/112828//newsview?seriesId=112828&newsId=20150408000607402)
 * [종교적 성향과 혁신을 대하는 태도 사이의 관계](http://newspeppermint.com/2015/04/08/religionandinnovation/)
 * [비행기 옆자리에 앉게 된 초정통파 유대인이 모르는 여성 옆에 앉을 수 없다고 자리를 바꿔달라고 하면 어떻게 하시겠습니까?](http://newspeppermint.com/2015/04/09/ultraorthodox_jewish/)
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)
@@ -12,20 +12,25 @@ Religion
 * [The World Religions Tree](http://000024.org/religions_tree/) 일본 문화의 위력(?)을 실감할 수 있다. 후대에 시기를 조작했을 가능성이 매우 큰데, 일본 아마테라스 신화가 가장 큰 뿌리 4개 중 하나를 차지하고 있음
 * *[Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)*
   * [세계 주요 종교가 퍼져 나가는 과정](https://www.youtube.com/watch?v=3D8lV9QSS1k)
-* [[마이클 셔머] 종교의 소멸과 그 정치적 의미(1/2)](http://newspeppermint.com/2015/07/20/m-religion1/)
-* [[마이클 셔머] 종교의 소멸과 그 정치적 의미(2/2)](http://newspeppermint.com/2015/07/20/m-religion2/)
+* 마이클 셔머 종교의 소멸과 그 정치적 의미
+  * [(1/2)](http://newspeppermint.com/2015/07/20/m-religion1/)
+  * [(2/2)](http://newspeppermint.com/2015/07/20/m-religion2/)
 * [The Real Landscapes of the Great Flood Myths](http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths)
 * [왜 종교인들은 특정한 의상을 입을까?](http://www.huffingtonpost.kr/2015/08/22/story_n_8023992.html)
-* [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (1)](http://newspeppermint.com/2015/09/10/scientist_atheist/)
-* [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (2)](http://newspeppermint.com/2015/09/10/scientist_atheist_2/)
+* 로렌스 크라우스 칼럼 법 위에 군림하려는 종교는 시민사회의 적
+  * [(1)](http://newspeppermint.com/2015/09/10/scientist_atheist/)
+  * [(2)](http://newspeppermint.com/2015/09/10/scientist_atheist_2/)
 * [사이비 과학, 사이비 종교, 그리고 아이들의 희생](http://ppss.kr/archives/19330)
 * [The World's Newest Major Religion: No Religion](http://news.nationalgeographic.com/2016/04/160422-atheism-agnostic-secular-nones-rising-religion/)
+
+# Atheist
+* [대한민국은 종교의 천국? 아니, 무신론 강국!](http://v.media.daum.net/v/20170129000344826)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
 * [한일 강제 합병의 숨은 공로자 가톨릭교회](http://catholicpress.kr/news/view.php?idx=1493)
-* [[칼럼-김근수] 염수정 추기경의 옹졸한 처신과 서소문공원](http://www.catholicpress.kr/m/view.php?idx=2223)
-* [[칼럼-김근수] 새누리당 윤리위원장에 서울대교구 사제라니?](http://www.catholicpress.kr/m/view.php?idx=2834)
+* [염수정 추기경의 옹졸한 처신과 서소문공원](http://www.catholicpress.kr/m/view.php?idx=2223)
+* [새누리당 윤리위원장에 서울대교구 사제라니?](http://www.catholicpress.kr/m/view.php?idx=2834)
 * [“교황 닮아야 할 추기경, 대통령을 닮다”](http://m.gobalnews.com/news/articleView.html?idxno=9656)
 
 # Buddhism
@@ -33,7 +38,7 @@ Religion
 * [달라이 라마, '종교가 더 좋은 세상 만드는 데 실패하고 있다'](http://www.huffingtonpost.kr/2015/06/10/story_n_7549154.html)
 
 ## 한국 불교
-* [[인터뷰]명진 스님 "우리 조계종이 패륜집단처럼 돼버렸다"](http://www.huffingtonpost.kr/2015/06/06/story_n_7524602.html)
+* [명진 스님 "우리 조계종이 패륜집단처럼 돼버렸다"](http://www.huffingtonpost.kr/2015/06/06/story_n_7524602.html)
 
 # Christianity
 * [지옥은 도대체 왜 존재하는 것일까요](http://newspeppermint.com/2015/03/23/m-hell/)
@@ -49,14 +54,16 @@ Religion
 * [정통 기독교 강좌: 몰살의 하나님으로부터 살아남는 3가지 방법](http://ppss.kr/archives/22276)
 * [우익 크리스천들이 기독교를 파괴하는 10가지 방식](http://www.huffingtonpost.kr/brynn-tannehill/story_b_8249044.html)
 * [창조과학과 지적설계론 관련 글 모음](http://blog.naver.com/iiai/41746053)
+* [창조설자들과 근본주의자들에게 선물하는 핵폭탄](http://blog.naver.com/infinite21c/221024642320)
 * ["동위원소 붕괴는 하나님이 자연에 심어 둔 선물"](http://www.newsnjoy.us/news/articleView.html?idxno=6715)
 * [Jesus of Nazareth, Whose Messianic Message Captivated Thousands, Dies at About 33](http://www.vanityfair.com/culture/2016/03/jesus-new-york-times-obituary)
 * [미국 교회·목사는 왜 세금 내나](http://www.sisainlive.com/news/articleView.html?idxno=11190)
 * [기독교에 살(煞)을 날린 영화, ‘곡성’](http://www.christiantoday.co.kr/articles/290962/20160518/%EA%B8%B0%EB%8F%85%EA%B5%90%EC%97%90-%EC%82%B4-%E7%85%9E-%EC%9D%84-%EB%82%A0%EB%A6%B0-%EC%98%81%ED%99%94-%EA%B3%A1%EC%84%B1.htm)
-* [[Why] 미국에서 가장 위험한 동네로 간 목사](http://m.media.daum.net/m/media/society/newsview/20160528030309561)
+* [미국에서 가장 위험한 동네로 간 목사](http://m.media.daum.net/m/media/society/newsview/20160528030309561)
 * [박정희에 결코 굴복하지 않았던 신학도들](http://m.sisainlive.com/news/articleView.html?idxno=26105)
 * ["진리가 테러리즘이 될 수 있다"](http://m.newsnjoy.or.kr/news/articleView.html?idxno=203904)
 * [y-jesus.org/korean](http://y-jesus.org/korean/)
+* [출애굽기](https://librewiki.net/wiki/%EC%B6%9C%EC%95%A0%EA%B5%BD%EA%B8%B0)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
@@ -69,6 +76,7 @@ Religion
 * [조용기 목사의 '친손자' 존재가 법원에서 확인됐다](http://www.huffingtonpost.kr/2015/07/15/story_n_7799740.html)
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html)
 * [주일마다 출장 요리, 오정현 목사의 '황제 식사'](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199267)
+* [“국내 3위 사랑의교회 목사를 끌어내리겠다니… ”](http://www.hani.co.kr/arti/society/society_general/779201.html)
 * [목사가 교회 돈을 착복할 수도 있다는 교회 측 주장](http://sarangnet.org/archives/15696)
 * [공감 능력을 잃어버린 강자 숭배의 신앙](http://ppss.kr/archives/47021)
 * [“여기선 노조 안 돼”…소망교회의 두 얼굴](http://newstapa.org/24724)
@@ -104,6 +112,9 @@ Religion
 * [김진홍 목사, 22억 횡령 혐의로 검찰 조사](http://m.newsnjoy.or.kr/news/articleView.html?idxno=205638)
 * ["성경에서 예수는 자신만이 하나님 아들이라 말한 적 없어"](http://media.daum.net/culture/others/newsview?newsid=20151008010102340)
 * ["가슴 만지고 태연하게 설교, 너무 황당했어요"](http://media.daum.net/society/others/newsview?newsid=20160914110602716&RIGHT_REPLY=R4)
+* [‘종교적 열심’은 왜 신앙을 배반하는가?](http://ppss.kr/archives/87948)
+* [일제치하 한국교회는 자진하여 배교했다](http://m.good-faith.net/news/articleView.html?idxno=623)
+* ["교회 세습 중지하고 세금 내는 게 예수의 길"](http://v.media.daum.net/v/20171229133230914)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

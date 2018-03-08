@@ -1,11 +1,19 @@
 Robot
 =====
 * [그를 빼고 ‘로봇공학’을 논하지 말라](http://www.bloter.net/archives/224824)
-* [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
 * [ROS 로봇 프로그래밍](http://book.daum.net/detail/book.do?bookid=KOR9791195149278) 한라 004.73표66ㄹ
   * [oroca.org](http://oroca.org/)
   * [github.com/oroca](https://github.com/oroca)
   * [robot.or.kr](http://robot.or.kr/)
+  * [ROS Courses (한국어)](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
+  * [github.com/robotpilot/ros-seminar](https://github.com/robotpilot/ros-seminar)
+* [turtlebot3](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+  * [Turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3)
+* [OpenCR 1.0](http://emanual.robotis.com/docs/en/parts/controller/opencr10/)
+  * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR)
+* [openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator/)
+  * [OpenManipulator](https://github.com/ROBOTIS-GIT/open_manipulator)
+* [ros_tutorials](https://github.com/ROBOTIS-GIT/ros_tutorials)
 * [도롱뇽 닮은 로봇](http://techholic.co.kr/archives/30293)
 * [12g짜리 헤라클레스 로봇](http://techholic.co.kr/archives/32962)
 * [3D프린터로 만든 초소형 오픈소스 로봇](http://techholic.co.kr/archives/32551)
@@ -16,7 +24,7 @@ Robot
 * [인체에 들어간 나노 로봇이 조직 채취를…](http://techholic.co.kr/archives/34897)
 * [그림 그려주는 4IN1 로봇](http://techholic.co.kr/archives/32544)
 * [Fanuc](http://www.thegear.co.kr/8465)
-* [[HEX] Project Intro](http://www.gperco.com/2015/06/hex-project-intro.html)
+* [Project Intro](http://www.gperco.com/2015/06/hex-project-intro.html)
 * [소금쟁이처럼 떠다니는 미니 로봇](http://ppss.kr/archives/47403)
 * [MIT 종이접기 로봇 ‘모터 없이 걸음을…’](http://techholic.co.kr/archives/35122)
 * [죽어가는 ‘로봇' 강아지와의 마지막을 준비하는 사람들(동영상)](http://www.huffingtonpost.kr/2015/06/20/story_n_7629822.html)
@@ -32,6 +40,14 @@ Robot
 * [ROSCon2015 총정리](http://cafe.naver.com/openrt/12384)
 * [일자리 정책, 무인화 대책은 안 보이네](http://www.bloter.net/archives/240824)
 * [Robot, Learning From Data](http://www.slideshare.net/samchoi7/robot-learning-from-data)
+* [www.robot-learning.org](http://www.robot-learning.org/)
+* [RACECAR - A Powerful Platform for Robotics Research and Teaching](https://mit-racecar.github.io/)
+* [ald.softbankrobotics.com](https://www.ald.softbankrobotics.com)
+
+# Book
+* [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
+* [robotpilot.net/#publications](http://robotpilot.net/#publications)
+* [github.com/robotpilot/ros-seminar](https://github.com/robotpilot/ros-seminar)
 
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
@@ -39,3 +55,6 @@ Robot
 # Python
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Offline programming with RoboDK](http://www.robodk.com/offline-programming.php)
+* [Python library for robotic simulation from openai.com](https://blog.openai.com/faster-robot-simulation-in-python/)
+* [fetchrobotics](https://github.com/fetchrobotics)
+* [ROS Support for jupyter notebooks](https://github.com/wolfv/jupyter-ros)

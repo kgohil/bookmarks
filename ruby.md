@@ -36,6 +36,13 @@ Ruby
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
 * [Scaffold로 빠르게 웹 서비스 개발하기](http://blog.saltfactory.net/ruby/speedly-developing-web-service-via-scaffolding.html)
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
+* [RubyGems.org is the Ruby community’s gem hosting service](https://rubygems.org/)
+* [Ruby http request 사용시 404 에러 삽질](http://www.popit.kr/ruby-http-request-%EC%82%AC%EC%9A%A9-404-%EC%97%90%EB%9F%AC-%EC%82%BD%EC%A7%88/)
+* [(번역) 나는 'puts' 디버거다](https://emaren84.github.io/blog/archivers/I-am-a-puts-debuggerer-kor)
+* [자바 기반의 백엔드와의 세션 공유를 위한 레일즈 세션 처리 분석](http://tech.lezhin.com/2017/06/01/rails-session)
+* **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
+* [The Ruby 2.5.0 feature nobody talks about](https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd)
+* [Six Ruby array methods you need to know](https://medium.freecodecamp.org/six-ruby-array-methods-you-need-to-know-5f81c1e268ce)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
@@ -81,3 +88,5 @@ Ruby
 * [Speed Up Your Rails App by 66% - The Complete Guide to Rails Caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 * [A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus](http://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/)
 * [Problems with typical Rails controllers and before actions](http://blog.ragnarson.com/2015/09/30/problems-with-typical-rails-controllers-and-before-actions.html)
+* [Ruby & Rails 용어집](http://rorlab.org/glossaries)
+* [5 Ruby on Rails Tips You Probably Don’t Know](https://hackernoon.com/5-ruby-on-rails-tips-you-probably-dont-know-8b80b4a0890f)

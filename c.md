@@ -1,5 +1,6 @@
 C
 =
+* [Awesome C](https://notabug.org/koz.ross/awesome-c)
 * [C언어 공부법과 책추천](http://sunyzero.tistory.com/225)
 * [Deep C (and C++)](http://www.slideshare.net/gigabite1/deep-c-programming)
 * [How to Learn C](http://charliethe.ninja/slideshow/introtoc.html)
@@ -7,6 +8,7 @@ C
   * [Exercise 20: Zed's Awesome Debug Macros](http://c.learncodethehardway.org/book/ex20.html)
 * [완전 쉬운 C언어 레전드](http://post.naver.com/viewer/postView.nhn?volumeNo=16956&memberNo=37462)
 * [C언어 표준과 책의 기술 범위](http://ehpub.co.kr/c%EC%96%B8%EC%96%B4-%ED%91%9C%EC%A4%80%EA%B3%BC-%EC%B1%85%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B2%94%EC%9C%84/)
+* [c언어](https://www.youtube.com/playlist?list=PLieE0qnqO2kRLMkHnJ1LBBTZFvmIT0G3s)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [Learn-C.org](http://www.learn-c.org/)
 * [C Tutorial](http://www.tutorialspoint.com/cprogramming/index.htm)
@@ -16,6 +18,7 @@ C
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C)
 * [시험에만 보이는 C언어, 시스템 프로그래밍 기법](http://sunyzero.tistory.com/192)
 * [Coroutines in C with Arbitrary Arguments](http://250bpm.com/blog:48)
+* [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
@@ -25,8 +28,9 @@ C
 * [Implementing a Virtual Machine in C](http://www.blog.felixangell.com/virtual-machine-in-c/)
 * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
   * [Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
+  * [QEMU + GDB로 디버깅 환경 조성](https://devsdk.github.io/development/2017/07/03/QemuAndGdb.html)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
-* [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
+* [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Writing Efficient C and C Code Optimization](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
 * [No, strncpy() is not a "safer" strcpy()](http://the-flat-trantor-society.blogspot.kr/2012/03/no-strncpy-is-not-safer-strcpy.html)
@@ -83,7 +87,7 @@ C
 * [FreeBSD Userspace Coredumps](http://backtrace.io/blog/blog/2015/10/03/whats-a-coredump/)
 * [Algorithmic symphonies from one line of code -- how and why?](http://countercomplex.blogspot.kr/2011/10/algorithmic-symphonies-from-one-line-of.html)
 * [PAPERS ARE AMAZING: Profiling threaded programs with Coz](http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/)
-* [8-bit number to binary string ("01011010") [C/C++]](http://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
+* [8-bit number to binary string ("01011010")](http://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [Why C and C++ are Awful Programming Languages](http://www.radford.edu/ibarland/Manifestoes/c++isBad.shtml)
 * [counting up vs counting down](http://www.tedunangst.com/flak/post/counting-up-vs-counting-down)
 * [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
@@ -93,9 +97,27 @@ C
 * [C언어 - 소켓 프로그래밍(Server & Client 문자열 주고 받기) 예제](http://y0ubat.tistory.com/76)
 * [소켓 프로그램 소스 샘플(서버, 클라이언트)](http://stoplulker.blogspot.com/2014/03/blog-post_20.html)
 * [C로 배우는 자료구조 및 여러가지 예제 실습](https://www.inflearn.com/course/c%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EC%98%88%EC%A0%9C-%EC%8B%A4%EC%8A%B5/)
+* [동적 라이브러리(shared library)와 Linker/Loader 이해하기](http://www.popit.kr/%EA%B3%B5%EC%9C%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%EB%A1%9C%EB%8D%94-loader-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
+* [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
+* [for문으로 보는 캐시 메모리](http://m.blog.naver.com/seisro/220689097188)
+* [C로 미분방정식을 풀어보았다](https://helloworldpark.github.io/jekyll/update/2016/12/18/ODE-with-C.html)
+* [독하게 시작하는 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1AQuQ-5mWbx0zdG0betdeoL)
+* [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [명강의로 완성하는 C](https://www.youtube.com/playlist?list=PLXvgR_grOs1CBClWm4_gU-Oe15LGf9yFk)
+* [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
+* [The GNU C Library Reference Manual](http://database.sarang.net/study/glibc/0.htm)
+* [The C Library Reference Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
+* [DNS Query Code in C with linux sockets](http://www.binarytides.com/dns-query-code-in-c-with-linux-sockets/)
+* [A Very Simple HTTP Server writen in C](https://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html)
+* [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html)
+* [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
+* [Can You Write a C Program Without a Main Function ? Here is How](https://latesthackingnews.com/2016/10/16/can-write-c-program-without-main-function/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
+* [Autoconf Tutorial Part-2](http://www.idryman.org/blog/2016/03/14/autoconf-tutorial-2/)
+* [Autoconf Tutorial Part-3](http://www.idryman.org/blog/2016/03/15/autoconf-tutorial-part-3/)
+* [autotools 간단한 사용 예제](http://egloos.zum.com/studyfoss/v/5343014)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -109,7 +131,7 @@ C
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
 * [makefiletutorial](http://makefiletutorial.com/)
-* [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
+* [blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 * [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
 
@@ -122,6 +144,7 @@ C
 * [better string library](http://bstring.sourceforge.net/)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
+* [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
 * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [cget - Cmake package retrieval](https://github.com/pfultz2/cget)
@@ -140,7 +163,7 @@ C
   $ ./cint test.c
   Hello World
   ```
-* CMake
+* [CMake](https://cmake.org/)
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc..](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
@@ -152,28 +175,29 @@ C
 * [CCAN - List of all CCAN modules](http://ccodearchive.net/list.html)
 * ceedling
   * [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
+* [cindent](http://invisible-island.net/cindent/cindent.html)
+* [CMOCK - AUTOMATED MOCK & STUB GENERATION FOR C](https://mark-vandervoord-yxrv.squarespace.com/cmock) unit test
 * [cmus is a small, fast and powerful console music player for Unix-like operating systems](https://cmus.github.io/)
 * [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [cpu60 - Simple CPU model written in 60 lines of code](https://github.com/wkoszek/cpu60)
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
-* ctags
-  * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
+* curl
+  * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [excel_to_code - Converts some excel spreadsheets (.xlsx, not .xls) into C](https://github.com/tamc/excel_to_code)
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [GBD Compare](http://www.healthdata.org/data-visualization/gbd-compare)
 * [gmem - G Memory Library](https://github.com/snoopspy/gmem)
-  * [[qt] How to use gmem](https://www.youtube.com/watch?v=0fIk5k7Gi-M&feature=youtu.be)
+  * [qt How to use gmem](https://www.youtube.com/watch?v=0fIk5k7Gi-M&feature=youtu.be)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
 * [goxel - Open source 3D voxel editor](https://github.com/guillaumechereau/goxel)
 * [gprof](https://sourceware.org/binutils/docs/gprof/) `gcc src.c -pg; ./a.out; gprof a.out gmon.out > result`
   * [gprof 사용법 (예제 중심으로...)](https://kldp.org/node/32606?destination=node%2F32606)
-  * [Speed your code with the GNU profiler](http://www.ibm.com/developerworks/library/l-gnuprof.html#listing6)
   * `no time accumulated` system call을 많이 쓰는 경우 user call에서 실제로 드는 시간이 별로 없어서 발생할 수 있다고 하는데, 실제로는 user call이 대부분인 경우도 발생하는 듯
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
@@ -185,9 +209,18 @@ C
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
+* [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier
+  * CentOS에 기본 설치되어 있음
+  * ‘-br’ ‘--braces-on-if-line’
+  * ‘-brf’ ‘--braces-on-func-def-line’
+  * ‘-npcs’ ‘--no-space-after-function-call-names’
+  * ‘-npsl’ ‘--dont-break-procedure-type’
+  * ‘-tsn’ ‘--tab-sizen’
+  * `indent -kr -brf -ci2 -cli2 -i2 -l80 -nut` = -brf + [Google c style settings for gnu indent?](http://stackoverflow.com/questions/17079851/google-c-style-settings-for-gnu-indent)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
+  * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)
@@ -225,6 +258,9 @@ C
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * objdump / gobjdump (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+* [OpenSSL](https://www.openssl.org/)
+  * [non-blocking socket에 OpenSSL 적용기](http://prostars.net/226)
+  * [SSL 인증서 생성과 설치](http://daddycat.blogspot.kr/2018/01/ssl.html)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [pcre2](https://github.com/luvit/pcre2)
   * [pcre2 sample code](https://github.com/dsindex/blog/wiki/%5Bc%5D-pcre2-sample-code)
@@ -255,11 +291,22 @@ C
 * [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
+* [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [valgrind](http://valgrind.org/)
-  * [example](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
+  * [practice](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
+  * [6. Callgrind: a call-graph generating cache and branch prediction profiler](http://valgrind.org/docs/manual/cl-manual.html)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
+
+# Pointer
+* [Difference between `char*` and `const char*`?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
+  * `const char*` a mutable pointer to an immutable character/string
+    * cannot change the contents of the location(s) this pointer points to
+    * conversion from `const char *` to `char *` is deprecated
+  * `char* const` an immutable pointer but the contents of location at which it points are mutable
+  * `const char* const` an immutable pointer to an immutable character/string
+* [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
@@ -271,9 +318,11 @@ C
   * [pipe() 파이프를 이용한 IPC](http://forum.falinux.com/zbxe/index.php?document_srl=419982&mid=C_LIB&comment_srl=888380&rnd=888380)
   * [CreateProcess와 CreatePipe를 이용한 콘솔프로그램 입출력 제어](http://yahon.tistory.com/277)
 * printf
-  * [printf("%*d", 4, 100)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+  * [`printf("%*d", 4, 100)`](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+* pthread
+  * [PTHREAD 내용 정리](https://jungwoon.github.io/linux/2017/07/11/pthread/)
 * scanf
-  * [scanf("%*d %d", &i)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+  * [`scanf("%*d %d", &i)`](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * setjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * string
@@ -288,12 +337,16 @@ C
       * [reading unicode file in c](http://stackoverflow.com/questions/16372615/reading-unicode-file-in-c)
       * [URL decoder/encoder](http://meyerweb.com/eric/tools/dencoder/)
     * iswspace
-    * mbstowcs [char* -> wchar_t*](http://momobing.tistory.com/22)
+    * mbstowcs [`char*` -> `wchar_t*`](http://momobing.tistory.com/22)
     * setlocale
     * [wchar_t](http://waintman.tistory.com/33)
     * wcscpy
     * wcslen
     * [wcstok](http://www.cplusplus.com/reference/cwchar/wcstok/)
       * [finding tokens in a string](http://www.gnu.org/software/libc/manual/html_node/Finding-Tokens-in-a-String.html)
-    * wcstombs [wchar_t* -> char*](http://momobing.tistory.com/22)
+    * wcstombs [`wchar_t*` -> `char*`](http://momobing.tistory.com/22)
     * wprintf
+* time_t
+  * mktime
+  * strftime
+  * strptime

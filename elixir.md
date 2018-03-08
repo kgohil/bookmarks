@@ -1,5 +1,6 @@
 Elixir
 ======
+* [elixir-lang.org](https://elixir-lang.org/)
 * [Elixir-koans Elixir learning exercises](http://elixirkoans.io/)
 * [elixir-koans Discover elixir lang by replacing "__?" and "assert_?" to make tests pass](https://github.com/dojo-toulouse/elixir-koans)
 * [나프다 웨비너 1604: Elixir와 함수형 프로그래밍을 이용한 웹 개발(박창욱)](https://www.youtube.com/watch?v=uGKg8gm4F58)
@@ -28,6 +29,21 @@ Elixir
 * [The simplicity and power of Elixir: the ws2048 case](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0)
 * [10 Reasons To Use Elixir In Finance](http://blog.johnorford.com/2015/11/01/x-reasons-to-use-elixir-in-finance/)
 * [The Value of Explicitness](http://blog.drewolson.org/the-value-of-explicitness/)
+* [엘릭서에서 얼랭보다 사용성이 개선된 9가지 측면](https://harfangk.github.io/2017/03/23/elixir-usability-improvement-over-erlang-ko.html)
+* [엘릭서 언어 디자인 목표](https://harfangk.github.io/2017/04/11/elixir-design-goals-ko.html)
+* [엘릭서에서 모듈 이름을 포함한 함수의 전체 이름 찾기](https://harfangk.github.io/2017/04/23/how-to-find-full-function-name-in-elixir-ko.html)
+* [엘릭서에서 캐스트 테스트 요청 시 레이스 컨디션 방지하기](https://harfangk.github.io/2017/07/09/preventing-race-condition-when-testing-cast-requests-in-elixir-ko.html)
+* Quick & Easy Elixir Refactorings
+  * [Part 1](https://medium.com/@efexen/quick-easy-elixir-refactorings-part-1-17376e9c455a)
+  * [Part 2 Functions ending with a conditional](https://medium.com/@efexen/quick-easy-elixir-refactorings-part-2-4cd66bad1b20)
+  * [Part 3 Conditionals in the middle](https://medium.com/@efexen/quick-easy-elixir-refactorings-part-3-def1aae4b072)
+* Periodic tasks with Elixir
+  * [No more Googling for Cron syntax](https://medium.com/@efexen/periodic-tasks-with-elixir-5d9050bcbdb3)
+  * [Part 2 Alternative implementation and dealing with drift](https://medium.com/@efexen/periodic-tasks-with-elixir-part-2-8aaee425aed0)
+* [Basic Design in Functional Programming Languages - Tomasz Kowal | ElixirLive 2016](https://www.youtube.com/watch?v=arYOSYrjC8s)
+
+# Book
+* [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
@@ -38,3 +54,9 @@ Elixir
 * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
+  * [Phoenix로 블로그 웹 애플리케이션 만들기 (for Rails developers)](http://guruble.com/phoenix-%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9b%b9-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0-for-rails-developers/)
+  * [Phoenix Presence를 이용한 채팅 애플리케이션 만들기](http://guruble.com/phoenix-presence%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%9c-%ec%b1%84%ed%8c%85-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
+  * [Phoenix 프레임워크의 Channel 이해하기](http://guruble.com/phoenix-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%ec%9d%98-channel-%ec%9d%b4%ed%95%b4%ed%95%98%ea%b8%b0/)
+  * [Edeliver와 Distillery를 이용한 Elixir/Phoenix 애플리케이션의 배포](http://guruble.com/edeliver%ec%99%80-distillery%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%9c-elixirphoenix-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98%ec%9d%98-%eb%b0%b0%ed%8f%ac/)
+* Plug
+  * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)

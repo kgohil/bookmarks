@@ -9,6 +9,7 @@ Self Control
 * [공부란 무엇인가](http://ppss.kr/archives/44596)
 * [인문학 공부를 위한 효율적인 텍스트 읽기](http://slownews.kr/40821)
 * [페이스북 생산성 툴 디자이너가 말하는 '생산적인 사람이 되는 법'](http://www.huffingtonpost.kr/2015/05/19/story_n_7310890.html)
+* [생산성 수수께끼, 구글은 이렇게 풀었다](http://news.joins.com/article/21212332)
 * [메모, 생각정리의 첫 단계](http://ppss.kr/archives/37385)
 * [예제를 통해 생각을 정리하는 역량을 높여 봅시다](http://ppss.kr/archives/33568)
 * [열망이 새로운 습관을 탄생시킨다](http://ppss.kr/archives/37787)
@@ -37,7 +38,7 @@ Self Control
 * [불안과 우울증을 갖는 남자에 대해 알아야할 13가지](http://www.huffingtonpost.kr/2015/09/17/story_n_8150314.html)
 
 * [스탠포드 대학에서 가장 인기 있는 수업](http://newspeppermint.com/2015/04/05/stanfords-most-popular-class/)
-* [[데이빗 브룩스 인터뷰] 직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://newspeppermint.com/2015/04/19/road-to-character/)
+* [데이빗 브룩스 인터뷰 직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://newspeppermint.com/2015/04/19/road-to-character/)
 
 * [장거리 연애가 불안하다면](http://www.huffingtonpost.kr/bogyoung-kim-/story_b_7002810.html)
 * [여성은 남성을 바꿉니다](http://newspeppermint.com/2015/04/08/how-women-change-men/)

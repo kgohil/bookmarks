@@ -1,7 +1,7 @@
  Hardware
 ========
 * [소프트웨어 개발자를 위한 사물인터넷 하드웨어 개발 플랫폼 ‘어니언오메가’ 킥스타터 등장](http://besuccess.com/2015/04/onion-omega-is-a-hardware-development-platform-designed-specifically-for-software-developer/)
-* [http://www.kocoafab.cc/](http://www.kocoafab.cc/)
+* [kocoafab.cc](http://www.kocoafab.cc/)
 * [The Crazy-Tiny Next Generation of Computers](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Introduction to Keyboard Programming](https://www.massdrop.com/article/introduction-to-keyboard-programming)
 * [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
@@ -17,22 +17,26 @@
 * [CHIP $9 computer walkthough and review to "hello, world"](https://www.youtube.com/watch?v=OP45YYEfUQM)
 * [Blynk - Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266 and other hardware](http://www.blynk.cc/)
 * [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
+* [아마존의 알렉사를 이용해서 음성인식하기](http://nemoroom.com/mobile/view.html?p_w0_idx=566&p_idx=94&g_p_idx=-1&gpCheck=0)
+* [When hardware met Node-RED](https://github.com/kyungw00k/IBMDeveloperConnect-2017)
+* [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
+* [MappyDot - Micro Smart LiDAR Sensor](https://hackaday.io/project/25571-mappydot)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
 * [아두이노로 만든 ‘블로터’표 미세먼지 측정기](http://www.bloter.net/archives/225362)
   * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
-  * [[공개] 아두이노 미세먼지 측정기 소스코드와 설계도면](http://www.bloter.net/archives/225462)
+  * [아두이노 미세먼지 측정기 소스코드와 설계도면](http://www.bloter.net/archives/225462)
 * [Beat Detection On The Arduino](http://dpeckett.com/beat-detection-on-the-arduino)
-* [http://ryulib.tistory.com/](http://ryulib.tistory.com/)
+* [ryulib.tistory.com](http://ryulib.tistory.com/)
   * [주사위 만들기](http://ryulib.tistory.com/370)
   * [만보기 게임](http://ryulib.tistory.com/372)
   * [쿼드콥터 제작 #1](http://ryulib.tistory.com/376)
   * [쿼드콥터 제작 #2](http://ryulib.tistory.com/377)
   * [쿼드콥터 제작 #3](http://ryulib.tistory.com/378)
   * [쿼드콥터 제작 #4](http://ryulib.tistory.com/379)
-* [http://techholic.co.kr/tag/아두이노](http://techholic.co.kr/tag/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
+* [techholic.co.kr/tag/아두이노](http://techholic.co.kr/tag/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
   * [아두이노 로봇으로 어린이 코딩 교육을…](http://techholic.co.kr/archives/32378)
   * [아두이노로 직접 만드는 DIY 금고](http://techholic.co.kr/archives/32457)
   * [직접 만드는 ‘날씨 정보 알려주는 구름 조명’](http://techholic.co.kr/archives/32716)
@@ -63,7 +67,7 @@
 * [PJON - One wire multi master device communications bus system for Arduino](https://github.com/gioblu/PJON)
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
-* [[블로터LIVE] ‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
+* [‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 * [레이저건 다트, 직접 만들어봐?](http://techholic.co.kr/archives/38997)
 * [Arduino Explained](http://stackabuse.com/arduino-explained/)
@@ -81,6 +85,8 @@
 * [Where is my family? - 2편 (android app 만들어서 test 해 보기)](https://vagabond-voyage.blogspot.com/2016/05/where-is-my-family-2-android-app-test.html)
 * [초딩 아들 등/하교 알리미 - 6탄 (모든것을 처음부터, 하지만 한방에 해결)](https://vagabond-voyage.blogspot.com/2016/06/6.html)
 * [E-Paper쉴드 사용해보기(1) - 텍스트 출력하기](http://kocoafab.cc/tutorial/view/676)
+* [아두이노 우노 R3 보드 3가지](https://hyeonseok.com/soojung/hardware/2017/04/13/815.html)
+* [아두이노에서 위성통신 모듈 사용하기](http://ryulib.tistory.com/461)
 
 # [Artik](https://www.artik.io/)
 
@@ -99,12 +105,12 @@
 # Galileo
 
 # IoT
-* [[IoT] MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
-* [[IoT] MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
-* [[IoT] MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
-* [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
-* [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
-* [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
+* [MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
+* [MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
+* [MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
+* [MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
+* [MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
+* [ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
 * [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
 * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
 * [‘윈도우10 IoT 코어’ 개발, 직접 해보니](http://www.bloter.net/archives/238385)
@@ -116,7 +122,9 @@
   * [IBM, ‘IoT 레시피’ 웹사이트 공개](http://www.bloter.net/archives/240786)
 * [ARM이 그리는 IoT 미래…“플랫폼 통합과 개발 효율이 핵심”](http://www.bloter.net/archives/242029)
 * [인텔, 쿼크 기반 새로운 IoT 플랫폼 선보여](http://www.bloter.net/archives/242792)
+* [17 How-To Intel® IoT Technology Code Samples Now Available in Python](https://software.intel.com/blogs/2017/03/17/17-how-to-intel-iot-technology-code-samples-now-available-in-python)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
+* [4 things IT Ops needs to know about machine learning](https://techbeacon.com/4-things-it-ops-needs-know-about-machine-learning)
 
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
@@ -127,6 +135,8 @@
 
 # Raspberry Pi
 * [Raspberry Pi 문서](https://wikidocs.net/book/483)
+* **[김성엽의 라즈베리파이 이야기](http://blog.naver.com/tipsware/221008415316)**
+* **[This Open Source Online Raspberry Pi Simulator By Microsoft Works Right Inside Your Browser](https://fossbytes.com/online-raspberry-pi-simulator-microsoft-open-source/)**
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
 * [fishpoint.tistory.com](http://fishpoint.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/Raspberry%20Pi)
 * [라즈베리파이2로 만드는 작은 천사](http://angeliot.blogspot.kr/2015/04/2.html?spref=fb)
@@ -160,6 +170,21 @@
 * [라즈베리파이, ‘소셜오디오’로 변신하다](http://www.bloter.net/archives/244233)
 * [Controlling a motorcycle tachometer with a raspberry pi](http://www.naughtycomputer.uk/controlling_tachometer.html)
 * [“라즈베리 파이의 비주얼 시대를 연다” 새로운 데스크톱 환경 ‘픽셀’](http://www.itworld.co.kr/news/101381)
+* [8 fun Raspberry Pi projects to try](https://opensource.com/article/16/12/yearbook-8-fun-raspberry-pi-projects?sc_cid=701600000011jJaAAI)
+* [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
+* [라즈베리파이 설치하기(PIXEL, RealVNC등)](http://nemoroom.com/view.html?p_w0_idx=679&p_idx=94&g_p_idx=-1&gpCheck=0)
+* [Raspberry Pi Smart Mirror](https://hackaday.io/project/13466-raspberry-pi-smart-mirror)
+* [라즈베리파이 프로젝트](http://blog.naver.com/roboholic84)
+* [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
+* [snips.ai](https://snips.ai/) 파이썬 기반 음성비서 
+* [Source Code for “Self Driving Car Learns Online and On-board on Raspberry Pi 3”](https://ogma.ai/2017/07/source-code-for-self-driving-car-learns-online-and-on-board-on-raspberry-pi-3/)
+* [라즈베리파이로 구글 홈(인공지능 스피커) 만들기](https://blog.naver.com/pshkhh/221168996566)
+* [아이패드에서 파이썬 코드 실행 with 라즈베리파이](http://sogentle.tistory.com/entry/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89-with-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4Raspberry-Pi)
+* [라즈베리파이 초기상태의 pi 계정에서 root 비밀번호 변경](https://lovetoken.github.io/etc/2018/01/13/raspberrypi_rootpasswd.html)
+* [WHY RASPBERRY PI ISN’T VULNERABLE TO SPECTRE OR MELTDOWN](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/)
+* 라즈베리 파이와 아이폰 시리로 홈 오토메이션
+  * [1 - Raspberry Pi Zero W 설정](https://taegon.kim/archives/6834)
+  * [2 - Homebridge 설정하기](https://taegon.kim/archives/6849)
 
 # [Spark](http://www.spark.io)
 
@@ -172,7 +197,7 @@
 [개발자를 위한 SSD (Coding for SSD) - Part 6 : 요약](http://tech.kakao.com/2016/07/18/coding-for-ssd-part-6/)
 
 # Tizen
-* [[Tizen Talk 2016 in Seoul] 바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
+* [바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
 
 # Zephyr
 * [리눅스재단, IoT용 오픈소스 OS ‘제퍼’ 공개](http://www.bloter.net/archives/250149)

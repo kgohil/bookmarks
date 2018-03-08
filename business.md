@@ -42,19 +42,53 @@ Business
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
   * [규모가 안 나오는 일도 해라](http://ppss.kr/archives/34709)
 * [비즈니스 성장을 위해 꼭 확인할 분석수치 TOP 8](http://ppss.kr/archives/37872)
+* [어떻게 나는 내 친구들과 사이드 프로젝트를 $17,000/월 비지니스로 성장시켰는가 (How my friends and I grew our side project into a $17,000/month business)](https://www.vobour.com/book/view/eSbfGjLiAoEyY6yBq)
 * [구조로 풀어내는 혁신, 홀라크라시(Holacracy) : 자포스의 대담한 실험](http://ibr.kr/3002)
 * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
+* [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
+* ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
+* [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
+* [협업의 미신 5가지](http://agile.egloos.com/5904102)
+* [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
+* [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+* [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
+* [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
-* [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
+* [팀원들이 너무 미워보여요, 어떡하죠?](http://outstanding.kr/weneedpeace20170517/)
+  * 외부의 적보다 내부의 적이 더 무섭습니다
+  * 스스로 심리상태가 과도하다는 걸 인지하세요
+  * 업무과정이 아닌 업무결과로 이야기하세요
+  * 입술에 피가 나더라도 기다려주세요
+  * 지시는 정확하고 현실적으로 해주세요
+  * 잘했는지 못했는지 자주 자주 피드백 해주세요
+  * 화를 낼 필요도, 화를 낼 이유도 없습니다
+  * 훈육과정에서 수치심을 주지 마세요
+  * 팀원을 서포팅한다는 마음을 가지세요
+  * 믿고 의지할 수 있도록 인격을 갖추세요
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
+* [중간관리자가 되는 법](https://brunch.co.kr/@younghakjang/20)
+* 참고
+  * 1. 이야기할 때; 부정적인 언어(X) 긍정적인 언어(O)
+    * 본질은 같아도 상대의 감정이 상하지 않게 할수 있다
+    * '장점/단점'이 아니라 '장점' 그리고 '개선 가능한 점'
+  * 2. 복잡하게 얽혀 있는 일; '해결한다'(X) '문제를 푼다'(O)
+    * 해결은 마치 모든걸 떠안고 단번에 해야 할 것 같다
+    * 문제를 푸는 것은 다르다. Step이 있고, 차근차근 해 나가야 한다. 아무리 복잡한 현상도 '풀어나가는 것'이라는 생각을 하게 한다
+  * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
+    * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
+* [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
+* [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
+* [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
-* *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
+* **[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)**
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
 * [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
@@ -64,20 +98,22 @@ Business
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
-* *[회사 보고서의 두 종류](http://ppss.kr/archives/50612)*
+* **[회사 보고서의 두 종류](http://ppss.kr/archives/50612)**
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
+* [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
+* [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
 * [커머스 BM은 어떻게 세분화되었으며, 앞으로 어떻게 진화할 것인가? – Commerce Positioning Map을 중심으로](http://verticalplatform.kr/archives/5218)
 * [직원들의 행복도를 높이는 6가지 방법](http://ppss.kr/archives/56434)
 * [당신은 직장에 절친한 친구가 있습니까?](http://ppss.kr/archives/57359)
 * [칼리 피오리나가 망쳐버린 HP](http://www.infuture.kr/m/post/961)
 * [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
-* [[송만약의 나쁜 프로그래머 이야기] (4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
+* [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
 * [핵심 지표(KPI)의 기준](http://www.andrewahn.co/product/defining-kpis/)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
@@ -86,10 +122,42 @@ Business
 * [회사에서 능력을 더 어필할 수 있는 작은 방법들](http://ppss.kr/archives/57970)
 * [전문가가 되지 못하면 어떻게 되는가?](http://m.blog.naver.com/devmarketing/220259733162)
 * [상사와 원만한 관계 유지하는 법](http://bonlivre.tistory.com/770)
+* [회사를 떠나는 것이 아니다. 상사를 떠나는 것이다](https://brunch.co.kr/@voiz/29)
+* [너와 나의 '감정계좌'](https://brunch.co.kr/@younghakjang/27)
+* [스포티파이에서는 결정권자인지 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
 * [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 * [쉬운 ‘주식회사’ 기반 창업의 역설 – ‘신용불량자’로 가는 지름길](https://nyetedu.wordpress.com/2016/09/25/%EC%89%AC%EC%9A%B4-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%B0%EB%B0%98-%EC%B0%BD%EC%97%85%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%8B%A0%EC%9A%A9%EB%B6%88%EB%9F%89%EC%9E%90%EB%A1%9C-%EA%B0%80/)
 * [대한민국 청년, 제발 창업 하지 마시라!](https://nyetedu.wordpress.com/2016/10/15/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B2%AD%EB%85%84-%EC%A0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85-%ED%95%98%EC%A7%80-%EB%A7%88%EC%8B%9C%EB%9D%BC/)
-* [[아재글] 웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
+* [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
+* [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
+* [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
+* [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
+* [문재인 대통령의 회의 방침](http://agile.egloos.com/5890768)
+* [회의하다 암 거릴 것 같아요](http://outstanding.kr/debate20170609/)
+  * 회의는 왜 비효율적인가?
+    * 회의라는 커뮤니케이션 자체가 애초부터 굉장히 어려운 레벨의 커뮤니케이션
+    * 7의 법칙; 회의에 참석하는 인원이 7명을 넘어서면 1명이 추가될 때마다 회의 효과는 10%씩 감소
+  * 그러나 현실에서는 어려운 문제가 있을 때 회의 참석자를 늘리면 아이디어가 풍부해져 문제 해결이 가능하다고 생각하는 경우가 빈번
+  * 회의 전
+    * 회의의 목적을 명확히 규정
+      * 정보 공유, 새로운 아이디어 도출, 의사 결정 중 어떤 목적인가
+      * 초반 5분을 회의 목표를 공유하는데 사용하면 좋음
+    * 구체적인 논제
+      * 문제 - 과제 - 논제의 구분, 즉 문제를 인식하고 해결하기 위한 방안을 도출하는 논제화가 필요
+      * e.g.
+        * 문제; 매출이 감소했다는 사실
+        * 과제; 매출 향상을 위한 제반 노력
+        * 논제; 매출 향상을 위해 신제품 개발 필요
+    * 정말 필요한 최적의 인원
+      * 피자 두 판의 법칙; 팀원이나 회의 참석자의 수가 피자 두 판을 먹을 수 있는 규모 이상으로 늘어나서는 안된다
+    * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
+* [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
+* [전략과 실행의 팩트체크](https://brunch.co.kr/@lunarshore/256)
+* [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
+* [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
+* [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
+* [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
+* [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -137,7 +205,7 @@ Business
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
 * [혁신은 창조가 아닌 비용 절감에서 나온다 : 정보 비대칭과 대리인비용](http://besuccess.com/2015/02/agencycost/)
-* [\[[일상다반사\] (Quora) 실패하기 쉬운 스타트업 사업 아이디어(성지 예감!)](http://jhrogue.blogspot.kr/2015/03/quora.html)
+* [Quora 실패하기 쉬운 스타트업 사업 아이디어(성지 예감!)](http://jhrogue.blogspot.kr/2015/03/quora.html)
 * [Thoughts on Internet 리프킨 차관보와의 만남 단상 : 조직의 창의성을 높이는 방법](https://estima.wordpress.com/2015/04/04/%EB%A6%AC%ED%94%84%ED%82%A8-%EC%B0%A8%EA%B4%80%EB%B3%B4%EC%99%80%EC%9D%98-%EB%A7%8C%EB%82%A8-%EB%8B%A8%EC%83%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%B0%BD%EC%9D%98%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4/)
 * [창의력을 기르고 싶다면 여행을 떠나세요](http://newspeppermint.com/2015/04/08/brain_travel/)
 * [Brainstorming Does Not Work](https://medium.com/galleys/brainstorming-does-not-work-6ad7b1448dcf?section=suggested)
@@ -166,7 +234,7 @@ Business
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 * [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
 * [스티브 잡스의 Why](http://estimastory.com/2015/05/17/stevejobswhy/)
-* [[NDC 15] 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
+* [NDC 15 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
 * [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 * [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
@@ -180,9 +248,15 @@ Business
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
 * [“경영자라면 코드가 다른 사람을 쓸 줄 알아야 합니다”](http://outstanding.kr/%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EB%A9%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%93%B8-%EC%A4%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4-2/)
+* [마블 VS DC, 격차가 점점 커진다..무엇이 명암 갈랐나](http://magazine2.movie.daum.net/movie/47027)
+* [휴스턴은 어떻게 WS 우승팀이 됐을까](http://v.sports.media.daum.net/v/20171103144258203) 제프 러나우, 짐 크레인
+* [첼시가 스탬포드브릿지 전투에서 얻은 것](http://v.sports.media.daum.net/v/20171107031234116) 안토니오 콘테
+* [어떻게 부하를 육성할 것인가](http://1boon.kakao.com/ppss/59c0f264ed94d20001845306) 조 지라디, 알렉스 퍼거슨, ...
+* [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
+* [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 
 # Manager Management
-* [[The PM- 번역] Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
+* [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
 * [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
 
 # Marketing
@@ -208,6 +282,20 @@ Business
 * [앱의 비효율성과 달라진 모바일 마케팅 지형도](http://ppss.kr/archives/35434)
 * [공유경제와 Mobile On-Demand Economy, 그리고 ‘부스러기 경제’](http://verticalplatform.kr/archives/4375)
 * [‘배달앱’을 둘러싼 혁신·원죄·오해·공포](http://ppss.kr/archives/30822)
+* [airbnb 같은 앱 개발 을 생각하고있다면, 혹은 의뢰를 받았다면](https://blog.naver.com/chowin21/221164195864)
+
+# OKR, Objective Key Results
+* [목표 설정 Framework, OKR](https://brunch.co.kr/@jjollae/8)
+  * objective 3가지, 각 objective마다 key result 3가지 정도
+  * key result에 대한 성과 측정이 간단해야 함
+  * OKR은 누구에게나 공개
+* [구글이 성공하는 비법: OKR!](http://www.andrewahn.co/silicon-valley/okr/)
+* [OKR – 개인 목표 설정에 적용해보기](http://www.andrewahn.co/silicon-valley/okr-track-personal-goals/)
+* [The Basics of OKR - Google's Secret Sauce](https://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr)
+* [Guide to OKR (Objectives & Key Results)](https://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
+* [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7)
+* [9 Initial Mistakes to Avoid When Starting to Do OKR Goals](https://www.atiim.com/blog/9-initial-okr-goals-mistakes-to-avoid/)
+* [5 Reasons Why OKRs Failed In Some Organisations](https://www.linkedin.com/pulse/5-reasons-why-okrs-failed-some-organisations-yatin-pawar?articleId=6947240228584562964)
 
 # Patent
 * 세기의 특허전쟁
@@ -240,7 +328,7 @@ Business
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/)
-* [[책 소개] 대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/)
+* [대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/)
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
@@ -265,6 +353,7 @@ Business
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
+* [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
